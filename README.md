@@ -3,9 +3,9 @@
 **Welcome to 2016 Summer - Security and Privacy Research Seminar @ Zhejiang University**
 ## June 29th
 
-1. [x] towards practical obivious ram (NDSS 2012)
-2. [x] CrowdTarget: Target-based Detection of Crowdturfing in Online Social Networks (CCS’15)
-3. [x] DevoFlow: Scaling Flow Management for High-Performance Networks (SIGCOMM'11)
+1. [x] Fei, towards practical obivious ram (NDSS 2012)
+2. [x] Xiang, CrowdTarget: Target-based Detection of Crowdturfing in Online Social Networks (CCS’15)
+3. [x] Changting, DevoFlow: Scaling Flow Management for High-Performance Networks (SIGCOMM'11)
 
 ## July 1st
 

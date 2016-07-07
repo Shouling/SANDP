@@ -4,7 +4,7 @@ Abstract: Mobile users are becoming increasingly aware of the privacy threats re
 
 2. [ ] Junchi, ----
 
-3. [ ] Jianyu, ----
+3. [x] Jianyu, PowerSpy: Location Tracking using Mobile Device Power Analysis
 
 4. [ ] Kai, ----
 

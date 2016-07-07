@@ -8,6 +8,8 @@ Abstract: Mobile users are becoming increasingly aware of the privacy threats re
 
 4. [ ] Kai, ----
 
-5. [ ] Changting, ----
+5. [ ] Changting, Bohatei: Flexible and Elastic DDoS Defense
+
+Abstract: DDoS defense today relies on expensive and propri- etary hardware appliances deployed at fixed locations. This introduces key limitations with respect to flexibil- ity (e.g., complex routing to get traffic to these “choke- points”) and elasticity in handling changing attack pat- terns. We observe an opportunity to address these limita- tions using new networking paradigms such as software- defined networking (SDN) and network functions virtu- alization (NFV). Based on this observation, we design and implement Bohatei, a flexible and elastic DDoS de- fense system. In designing Bohatei, we address key challenges with respect to scalability, responsiveness, and adversary-resilience. We have implemented de- fenses for several DDoS attacks using Bohatei. Our evaluations show that Bohatei is scalable (handling 500 Gbps attacks), responsive (mitigating attacks within one minute), and resilient to dynamic adversaries.
 
 6. [ ] Fei, ----

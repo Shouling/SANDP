@@ -17,14 +17,21 @@
 
 ## July 6th
 
-1. [ ] Xurong, A Cryptographic Analysis of the TLS 1.3 Handshake Protocol Candidates.
-2. [ ] Junchi, A Placement Vulnerability Study in Multi-Tenant Public Clouds
-3. [ ] Jianyu, Cloudy with a Chance of Breach: Forecasting Cyber Security Incidents (usenix seccurity'15)
+1. [x] Xurong, A Cryptographic Analysis of the TLS 1.3 Handshake Protocol Candidates.
+2. [x] Junchi, A Placement Vulnerability Study in Multi-Tenant Public Clouds
+3. [x] Jianyu, Cloudy with a Chance of Breach: Forecasting Cyber Security Incidents (usenix seccurity'15)
 
 
 ## July 8th
 
-**TBD**
+> caoguanbiao 208
+
+1. [ ] Xurong, Anatomization and Protection of Mobile Apps? Location Privacy Threats
+2. [ ] Junchi, ----
+3. [ ] Jianyu, PowerSpy: Location Tracking using Mobile Device Power Analysis
+4. [ ] Kai, Securing Self-Virtualizing Ethernet Devices
+5. [ ] Changting, Bohatei: Flexible and Elastic DDoS Defense
+6. [ ] Fei, [RAPTOR: Routing Attacks on Privacy in Tor](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/sun)
 
 ## ToDo
 Before discussion, please update 'README' and upload corresponding stuff, e.g, paper and slides.

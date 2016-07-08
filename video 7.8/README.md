@@ -1,5 +1,5 @@
 ---
-> **Where:** `Caoguanbiao 208` **When:** `1:30pm`
+**Where:** `Caoguanbiao 208` **When:** `1:30pm`
 ---
 
 

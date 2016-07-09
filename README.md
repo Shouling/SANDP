@@ -26,12 +26,24 @@
 
 > caoguanbiao 208
 
-1. [ ] Xurong, Anatomization and Protection of Mobile Apps? Location Privacy Threats
-2. [ ] Junchi, ----
-3. [ ] Jianyu, PowerSpy: Location Tracking using Mobile Device Power Analysis
-4. [ ] Kai, Securing Self-Virtualizing Ethernet Devices
-5. [ ] Changting, Bohatei: Flexible and Elastic DDoS Defense
-6. [ ] Fei, [RAPTOR: Routing Attacks on Privacy in Tor](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/sun)
+1. [x] Xurong, Anatomization and Protection of Mobile Apps? Location Privacy Threats
+2. [x] Junchi, ----
+3. [x] Jianyu, PowerSpy: Location Tracking using Mobile Device Power Analysis
+4. [x] Kai, Securing Self-Virtualizing Ethernet Devices
+5. [x] Changting, Bohatei: Flexible and Elastic DDoS Defense
+6. [x] Fei, [RAPTOR: Routing Attacks on Privacy in Tor](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/sun)
+
+## July 13th
+
+> `caoguanbiao 201` `1:30pm`
+
+TBD
+
+## July 15th
+
+> `caoguanbiao 208` `1:30pm`
+
+TBD
 
 ## ToDo
 Before discussion, please update 'README' and upload corresponding stuff, e.g, paper and slides.

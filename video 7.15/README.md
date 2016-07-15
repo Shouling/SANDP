@@ -24,4 +24,4 @@ Based upon this observation, we developed a new technique, called MassVet, for v
 
 5. [ ] Changting, Eclipse Attacks on Bitcoin’s Peer-to-Peer Network
 
-6. [ ] Fei, ----
+6. [ ] Fei, To Pin or Not to Pin?Helping App Developers Bullet Proof Their TLS Connections

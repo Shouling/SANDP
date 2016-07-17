@@ -50,6 +50,9 @@ TBD
 > `caoguanbiao 201` `1:30pm`
 
 1. [x] Xiang LING, Tampering with the Delivery of Blocks and Transactions in Bitcoin (CCS'15)
+
 2. [x] Junchi, 
+
+
 ## ToDo
 Before discussion, please update 'README' and upload corresponding stuff, e.g, paper and slides.

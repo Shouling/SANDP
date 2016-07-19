@@ -51,7 +51,7 @@ TBD
 
 1. [x] Xiang LING, Tampering with the Delivery of Blocks and Transactions in Bitcoin (CCS'15)
 
-2. [x] Junchi, I Do Not Know What You Visited Last Summer: Protecting users from stateful third-party web tracking with TrackingFree browser.
+2. [x] Junchi, Towards SDN-Defined Programmable BYOD (Bring Your Own Device) Security.
 
 
 ## ToDo

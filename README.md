@@ -1,4 +1,4 @@
-#Seminar 2016
+﻿#Seminar 2016
 
 **Welcome to 2016 Summer - Security and Privacy Research Seminar @ Zhejiang University**
 ## June 29th
@@ -47,11 +47,11 @@ TBD
 
 ## July 20th
 
-> `caoguanbiao 201` `1:30pm`
+> `zetong 104` `1:30pm`
 
 1. [x] Xiang LING, Tampering with the Delivery of Blocks and Transactions in Bitcoin (CCS'15)
 
-2. [x] Junchi, 
+2. [x] Junchi, I Do Not Know What You Visited Last Summer: Protecting users from stateful third-party web tracking with TrackingFree browser.
 
 
 ## ToDo

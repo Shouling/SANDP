@@ -1,4 +1,4 @@
-***
+﻿***
 
 Where: `Caoguanbiao 208` When: `1:30pm`
 
@@ -10,7 +10,9 @@ Anonymization and De-anonymization
 
 In this paper, we analyze and systematize the state-ofthe- art graph data privacy and utility techniques. Specifically, we propose and develop SecGraph (available at [1]), a uniform and open-source Secure Graph data sharing/publishing system. In SecGraph, we systematically study, implement, and evaluate 11 graph data anonymization algorithms, 19 data utility metrics, and 15 modern Structure-based De-Anonymization (SDA) attacks. To the best of our knowledge, SecGraph is the first such system that enables data owners to anonymize data by state-of-the-art anonymization techniques, measure the data?s utility, and evaluate the data?s vulnerability against modern De-Anonymization (DA) attacks. In addition, SecGraph enables researchers to conduct fair analysis and evaluation of existing and newly developed anonymization/DA techniques. Leveraging SecGraph, we conduct extensive experiments to systematically evaluate the existing graph data anonymization and DA techniques. The results demonstrate that (i) most anonymization schemes can partially or conditionally preserve most graph utilities while losing some application utility; (ii) no DA attack is optimum in all scenarios. The DA performance depends on several factors, e.g., similarity between anonymized and auxiliary data, graph density, and DA heuristics; and (iii) all the state-of-the-art anonymization schemes are vulnerable to several or all of the modern SDA attacks. The degree of vulnerability of each anonymization scheme depends on how much and which data utility it preserves.
 
-2. [ ] Junchi, ----
+2. [ ] Junchi, Circuit Fingerprinting Attacks: Passive Deanonymization of Tor Hidden Services
+
+This paper sheds light on crucial weaknesses in the design of hidden services that allow us to break the anonymity of hidden service clients and operators passively. In particular, we show that the circuits, paths established through the Tor network, used to communicate with hidden services exhibit a very different behavior compared to a general circuit. We propose two attacks, under two slightly different threat models, that could identify a hidden service client or operator using these weaknesses. We found that we can identify the users’ involvement with hidden services with more than 98% true positive rate and less than 0.1% false positive rate with the first attack, and 99% true positive rate and 0.07% false positive rate with the second. We then revisit the threat model of previous website fingerprinting attacks, and show that previous results are directly applicable, with greater efficiency, in the realm of hidden services. Indeed, we show that we can correctly determine which of the 50 monitored pages the client is visiting with 88% true positive rate and false positive rate as low as 2.9%, and correctly deanonymize 50 monitored hidden service servers with true positive rate of 88% and false positive rate of 7.8% in an open world setting.
 
 3. [ ] Jianyu, M2R: Enabling Stronger Privacy in MapReduce Computation
 

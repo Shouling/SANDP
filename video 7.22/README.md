@@ -5,10 +5,16 @@ Where: `Caoguanbiao 208` When: `1:30pm`
 ***
 
 
-1. [ ] Xurong, 
+1. [ ] Xurong, SecGraph: A Uniform and Open-source Evaluation System for Graph Data
+Anonymization and De-anonymization
+
+In this paper, we analyze and systematize the state-ofthe- art graph data privacy and utility techniques. Specifically, we propose and develop SecGraph (available at [1]), a uniform and open-source Secure Graph data sharing/publishing system. In SecGraph, we systematically study, implement, and evaluate 11 graph data anonymization algorithms, 19 data utility metrics, and 15 modern Structure-based De-Anonymization (SDA) attacks. To the best of our knowledge, SecGraph is the first such system that enables data owners to anonymize data by state-of-the-art anonymization techniques, measure the data?s utility, and evaluate the data?s vulnerability against modern De-Anonymization (DA) attacks. In addition, SecGraph enables researchers to conduct fair analysis and evaluation of existing and newly developed anonymization/DA techniques. Leveraging SecGraph, we conduct extensive experiments to systematically evaluate the existing graph data anonymization and DA techniques. The results demonstrate that (i) most anonymization schemes can partially or conditionally preserve most graph utilities while losing some application utility; (ii) no DA attack is optimum in all scenarios. The DA performance depends on several factors, e.g., similarity between anonymized and auxiliary data, graph density, and DA heuristics; and (iii) all the state-of-the-art anonymization schemes are vulnerable to several or all of the modern SDA attacks. The degree of vulnerability of each anonymization scheme depends on how much and which data utility it preserves.
+
 2. [ ] Junchi, ----
 
-3. [ ] Jianyu, 
+3. [ ] Jianyu, M2R: Enabling Stronger Privacy in MapReduce Computation
+
+New big-data analysis platforms can enable distributed computation on encrypted data by utilizing trusted computing primitives available in commodity server hardware. We study techniques for ensuring privacy preserving computation in the popular MapReduce framework. In this paper, we first show that protecting only individual units of distributed computation (e.g. map and reduce units), as proposed in recent works, leaves several important channels of information leakage exposed to the adversary. Next, we analyze a variety of design choices in achieving a stronger notion of private execution that is the analogue of using a distributed oblivious-RAM (ORAM) across the platform. We develop a simple solution which avoids using the expensive ORAM construction, and incurs only an additive logarithmic factor of overhead to the latency. We implement our solution in a system called M2R, which enhances an existing Hadoop implementation, and evaluate it on seven standard MapReduce benchmarks. We show that it is easy to port most existing applications to M2R by changing fewer than 43 lines of code. M2R adds fewer than 500 lines of code to the TCB, which is less than 0:16% of the Hadoop codebase. M2R offers a factor of 1:3x to 44:6x lower overhead than extensions of previous solutions with equivalent privacy. M2R adds a total of 17% to 130% overhead over the insecure baseline solution that ignores the leakage channels M2R addresses.
 
 
 4. [ ] Kai, Marionette: A Programmable Network Traffic Obfuscation System

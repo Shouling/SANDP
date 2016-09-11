@@ -1,58 +1,31 @@
-﻿#Seminar 2016
+# Member
 
-**Welcome to 2016 Summer - Security and Privacy Research Seminar @ Zhejiang University**
-## June 29th
+|Research Area|Member|
+|---|---|
+|Big data security|Xiang, Jianyu, Xurong, Zanzhu|
+|SDN and virtualization|Kai, Changting, Junchi|
+|SDN security (TBD)|Yuwei, Qianjun, Qiumei|
+||Fei, Rui (TBD)|
 
-1. [x] Fei, towards practical obivious ram (NDSS 2012)
-2. [x] Xiang, CrowdTarget: Target-based Detection of Crowdturfing in Online Social Networks (CCS’15)
-3. [x] Changting, DevoFlow: Scaling Flow Management for High-Performance Networks (SIGCOMM'11)
+# Agenda
 
-## July 1st
-
-1. [x] Under-Constrained Symbolic Execution: Correctness Checking for Real Code
-2. [x] Vulnerability Disclosure in the Age of Social Media: Exploiting Twitter for Predicting Real-World Exploits
-3. [x] Cloudy with a Chance of Breach: Forecasting Cyber Security Incidents
-4. [x] UIPicker: User-Input Privacy Identification in Mobile Applications
-5. [x] Eclipse Attacks on Bitcoin’s Peer-to-Peer Network
-
-## July 6th
-
-1. [x] Xurong, A Cryptographic Analysis of the TLS 1.3 Handshake Protocol Candidates.
-2. [x] Junchi, A Placement Vulnerability Study in Multi-Tenant Public Clouds
-3. [x] Jianyu, Cloudy with a Chance of Breach: Forecasting Cyber Security Incidents (usenix seccurity'15)
-
-
-## July 8th
-
-> caoguanbiao 208
-
-1. [x] Xurong, Anatomization and Protection of Mobile Apps? Location Privacy Threats
-2. [x] Junchi, ----
-3. [x] Jianyu, PowerSpy: Location Tracking using Mobile Device Power Analysis
-4. [x] Kai, Securing Self-Virtualizing Ethernet Devices
-5. [x] Changting, Bohatei: Flexible and Elastic DDoS Defense
-6. [x] Fei, [RAPTOR: Routing Attacks on Privacy in Tor](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/sun)
-
-## July 13th
-
-> `caoguanbiao 201` `1:30pm`
-
-TBD
-
-## July 15th
-
-> `caoguanbiao 208` `1:30pm`
-
-TBD
-
-## July 20th
-
-> `zetong 104` `1:30pm`
-
-1. [x] Xiang LING, Tampering with the Delivery of Blocks and Transactions in Bitcoin (CCS'15)
-
-2. [x] Junchi, Towards SDN-Defined Programmable BYOD (Bring Your Own Device) Security.
-
-
-## ToDo
-Before discussion, please update 'README' and upload corresponding stuff, e.g, paper and slides.
+||Date|Topic|Speaker|Time|Event|
+|---|:---:|:---:|:---:|:---:|:---:|
+|01|2016.9.16 <br> Cao 201|Big data security|Xiang <br> Xurong <br> Jianyu|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|02|2016.9.23 <br> Cao 201|SDN and Virtualization|Kai <br> Changting <br> Junchi|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|03|2016.9.30 <br> Cao 201|SDN security (TBD)|Yuwei <br> Qianjun <br> Qiumei|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|04|2016.10.14 <br> Cao 201| |Zanzhu <br> Fei <br> Rui (TBD)|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|05|2016.10.21 <br> Cao 201|Big data security|Xiang <br> Xurong <br> Jianyu |09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|06|2016.10.28 <br> Cao 201|SDN and Virtualization|Kai <br> Changting <br> Junchi|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|07|2016.11.4 <br> Cao 201|SDN security (TBD)|Yuwei <br> Qianjun <br> Qiumei|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|08|2016.11.11 <br> Cao 201| |Zanzhu <br> Fei <br> Rui (TBD)|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|09|2016.11.18 <br> Cao 201|Big data security|Xiang <br> Xurong <br> Jianyu|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|10|2016.11.25 <br> Cao 201|SDN and Virtualization|Kai <br> Changting <br> Junchi| |09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|11|2016.12.2 <br> Cao 201|SDN security (TBD)|Yuwei <br> Qianjun <br> Qiumei|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|12|2016.12.9 <br> Cao 201| |Zanzhu <br> Fei <br> Rui (TBD)|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|13|2016.12.16 <br> Cao 201|Big data security|Xiang <br> Xurong <br> Jianyu|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|14|2016.12.23 <br> Cao 201|SDN and Virtualization|Kai <br> Changting <br> Junchi| |09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|15|2016.12.30 <br> Cao 201|SDN security (TBD)|Yuwei <br> Qianjun <br> Qiumei|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|16|2017.1.6 <br> Cao 201| |Zanzhu <br> Fei <br> Rui (TBD)|09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|17|2017.1.13 <br> Cao 201| | |09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|
+|18|2017.1.20 <br> Cao 201| | |09:00-09:50 <br> 09:50-10:40 <br> 10:40-11:30|

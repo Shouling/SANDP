@@ -5,7 +5,7 @@
 |Big data security|Xiang, Jianyu, Xurong, Zanzhu|
 |SDN and virtualization|Kai, Changting, Junchi|
 |SDN security (TBD)|Yuwei, Qianjun, Qiumei|
-||Fei, HaiqinHaiqin|
+||Fei, Haiqin|
 
 # Agenda
 

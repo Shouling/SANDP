@@ -1,0 +1,14 @@
+Review  
+	zhukai 
+While whitehat seo is encouraged, search engine providers want to disrupt blackhat seo, which usually promotes malicious websites. This paper investagates a novel blackhat technique called spider pool. Spider pools use SEO domains resolvded by wildcard dns to increase access frequency of promoted websites from search engine crawlers.
+The authors infiltrated to a real-world spider pool provider and found some features: 
+1. spider pools generate fabricated subdomain and resovle thme through wildcard dns.
+2. the toolkit generates seo page content with long tail keyword and  popular text.
+3. spider domains connect to each other. customers' sited are also connected to each pool.
+
+The authors leverage these features to  launch dns scanning and  build a seo domain detector, whose false positive rate for all domains is only 0.8%.
+The measurement shows that the distribution of spider pools' ip address and owners concentrate in a few point and that most promoted sites contain illegal information.
+
+One limitation is that adversaries can improve their spider pools' structure to avoid detecting. 
+
+

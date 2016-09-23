@@ -1,0 +1,8 @@
+This paper comprehensively  describe the spider pool and present some ways to detect the wildDNS subdomains which is mainly used by 
+spider pool provider.
+  The author also make some statistical analysis about the portion of wildDNS used by spider pool and the result is surprising that there 
+is a huge number of wildDNS used for SEOdomains.
+  for detail, the spider pool use large cheap SEO domains to make large quickly changed pages to trap the search engine crawler .then when
+a custumer use their service ,these crawler was direct to the customer's page.use this way  spider pool can quick impove the page's page
+rank and make search engine more quickly to update their page information change.
+  In this paper ,author has makelot data collection and  analysis ,which reveal the true structure of spider pool

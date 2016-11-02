@@ -2,7 +2,7 @@
 #####*---IEEE Symposium on Security and Privacy 2016*
 ###authors: *Suphannee Sivakorn, Iasonas Polakis and Angelos D. Keromytis*
 ###speaker: *Li Xurong*
-###slides:you can click [here](https://www.blackhat.com/docs/us-16/materials/us-16-Sivakorn-HTTP-Cookie-Hijacking-In-The-Wild-Security-And-Privacy-Implications.pdf)
+###slides: it is too big, you can click [here](https://www.blackhat.com/docs/us-16/materials/us-16-Sivakorn-HTTP-Cookie-Hijacking-In-The-Wild-Security-And-Privacy-Implications.pdf) to download.
 
 ###abstract: 
    * 随着人们对在线隐私的重视，而对流行网站进行**session** 劫持的攻击层出不穷，这也催生了*HTTPS*的部署。然而，许多网站出于性能和兼容性的考虑仍然不采用无处不在的加密。一般采取的做法是对部分关键功能和敏感数据访问进行加密连接，对于其他的一些无关紧要的功能或数据通过*HTTP*访问。实际上，这种做法是容易产生缺陷导致敏感信息和功能泄露给第三方。

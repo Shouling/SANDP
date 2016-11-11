@@ -6,8 +6,8 @@
 
 <font size=4 face="华为彩云"> 1. This paper is from **Usenix Security 2016**, you can know more details [[pdf](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_bashir.pdf)][[slides](https://www.usenix.org/sites/default/files/conference/protected-files/security16_slides_bashir.pdf)]. </font> 
 
-<font size=4 face="华为彩云"> 2. This paper is related to Ads. You'd better know the meaning of these **key words** in adavance:<br/>
-Retargetd Ads;<br/> Online tracking; <br/>Cookie matching; <br/>RTB (Real Time Bidding); <br/>HTTP (HyperText Transfer Protocol)</font> <br/>
+<font size=4 face="华为彩云"> 2. This paper is related to Ads. You'd better know the meaning of these **key words** in adavance: </font> <br/>
+<font size=4 face="华为彩云">Retargetd Ads;<br/> Online tracking; <br/>Cookie matching; <br/>RTB (Real Time Bidding); <br/>HTTP (HyperText Transfer Protocol)</font> <br/>
 
 ##Abstract
 <font size=4 face="华为彩云"> Pepole are also unaware of the amount of data sharing that occurs between ad exchanges. Recently work have shown ad exchanges perform cookie mathcing with other exchanges. In RTB auctions, cookie matching is a pre-condition for ad exchanges. In this paper, the authors rely on semantics of how exchanges serve ads and develop a method to detect client- and server-side flows of information between arbitrary ad exchanges. They crawled data on 35,448 ad impressions and showed that our methodology can successfully categorize four different kinds of information sharing behavior between ad exchanges,</font> <br/>

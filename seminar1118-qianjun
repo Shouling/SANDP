@@ -1,5 +1,12 @@
-paper:
-slides:
+
+paper: http://www.internetsociety.org/sites/default/files/04_5.pdf
+
+slides: http://jingyan.baidu.com/album/9f63fb91abcfa1c8400f0e23.html?picindex=1
 
 introduction:
-     This  paper mainly focused on the security threat of cross-origin
+     This  paper mainly focused on the security threat of cross-origin communication using postMessage mechanism in HTML5 websites,especially
+ in websites that include third-party content.
+ The authours collected postMessage receivers from Alexa top 10,000 websites and found that many performed origin checks incorrectly or 
+ not at all.This resulted in vulnerabilities in 84 popular sites,including cross-site scripting and injection of arbitrary content into 
+ local storage.They also proposed some defenses.The defense for the third-party uses  nonce as a token to authenticate the source of messages.
+ The defense for site owners extends Content Security Policy(CSP)  to confine the web resources.

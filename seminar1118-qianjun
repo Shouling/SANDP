@@ -1,7 +1,7 @@
 
 paper: http://www.internetsociety.org/sites/default/files/04_5.pdf
 
-slides: http://jingyan.baidu.com/album/9f63fb91abcfa1c8400f0e23.html?picindex=1
+slides: http://www.internetsociety.org/sites/default/files/Presentation04_5.pdf
 
 introduction:
      This  paper mainly focused on the security threat of cross-origin communication using postMessage mechanism in HTML5 websites,especially

@@ -1,0 +1,2 @@
+this week i will introduce the paper :fast,lean,and accurate,modeling password guessability using neural networks.(USENIX 2016)
+the main idea of this paper is to guess passwords and measure password strength efficiently by neural networks.  

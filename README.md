@@ -4,7 +4,7 @@ such as **conference,title,abstract**,and your **thinking**，which can be writt
 
 **Location**： Caoguangbiao-201 
 
-**Time**: 18:00-20:00  
+**Time**: 18:00-20:00  Welcome to attend the seminar!
 
 ||Date|Speaker|
 |---|:---:|:---:|

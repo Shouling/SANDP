@@ -1,14 +1,14 @@
 # Agenda
 Please upload your **slides** and a **introduction(Chinese or English)** of your presentation **in advance**,
-such as **conference,title,abstract**，which can be written in the form of [markdown](http://sspai.com/25137).
+such as **conference, title, abstract**，which can be written in the form of [markdown](http://sspai.com/25137).
 
 **Location**： Caoguangbiao-201 
 
 **Time**: 18:00-20:00  Welcome to attend the seminar!
 
-||Date|Speaker|
-|---|:---:|:---:|
-|1|2017.9.1 |施程辉 唐凯宇| 
+||Date|Speaker|Title|
+|---|:---:|:---:|:---:|
+|1|2017.9.1 |施程辉 唐凯宇|paper title|
 |2|2017.9.8|王   博 魏成坤| 
 |3|2017.9.15|杜天宇 李进峰| 
 |4|2017.9.22|伍一鸣 李长江| 

@@ -8,7 +8,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
-|1|2017.9.1 |施程辉<br>唐凯宇|paper title<br>paper title|
+|1|2017.9.1 |施程辉<br>唐凯宇|paper title<br>An Automated Social Graph De-anonymization Technique|
 |2|2017.9.8|王   博 <br>魏成坤| 
 |3|2017.9.15|杜天宇 <br>李进峰| 
 |4|2017.9.22|伍一鸣<br> 李长江| 

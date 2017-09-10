@@ -1,0 +1,4 @@
+
+This paper talks about fuzzing. Fuzzing or fuzz testing is an automated software testing technique that involves providing invalid, 
+unexpected, or random data as inputs to a computer program. If you want know more about fuzzing, you can refer https://en.wikipedia.org/wiki/Fuzzing.
+The author design a new fuzzer-VUzzer, a mutation-based fuzzer, you can find the source project of VUzzer in https://github.com/vusec/vuzzer.

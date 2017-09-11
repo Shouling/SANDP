@@ -10,7 +10,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |---|:---:|:---:|:---:|
 |1|2017.9.1 |王  博<br>唐凯宇|ECDSA Key Extraction from Mobile Devices via Nonintrusive Physical Side Channels<br>An Automated Social Graph De-anonymization Technique|
 |2|2017.9.8|施程辉<br>魏成坤|Towards Evaluating the Robustness of Neural Networks <br>Quantifying Web-Search Privacy|
-|3|2017.9.15|杜天宇 <br>李进峰| 
+|3|2017.9.15|杜天宇 <br>李进锋| <br>Automated Crowdturfing Attacks and Defenses in Online Review Systems|
 |4|2017.9.22|伍一鸣<br> 李长江| 
 |5|2017.9.29|吕晨阳<br> 陈源| 
 |6|2017.10.6|李宇薇<br> 刘倩君| 
@@ -19,7 +19,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |9|2017.10.27|刘沛宇<br>  严凯| 
 |10|2017.11.3|施程辉<br> 唐凯宇 | 
 |11|2017.11.10|王   博 <br>魏成坤 | 
-|12|2017.11.17|杜天宇 <br>李进峰| 
+|12|2017.11.17|杜天宇 <br>李进锋| 
 |13|2017.11.24|伍一鸣<br> 李长江| 
 |14|2017.12.1|吕晨阳 <br>陈源| 
 |15|2017.12.8|李宇薇<br> 刘倩君| 

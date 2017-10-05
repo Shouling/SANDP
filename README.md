@@ -12,7 +12,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |2|2017.9.8|施程辉<br>魏成坤|Towards Evaluating the Robustness of Neural Networks <br>Quantifying Web-Search Privacy|
 |3|2017.9.15|杜天宇 <br>李进锋| <br>Automated Crowdturfing Attacks and Defenses in Online Review Systems|
 |4|2017.9.22|伍一鸣<br> 李长江| Acing the IOC Game: Toward Automatic Discovery and Analysis of Open-Source Cyber Threat Intelligence <br> On the (in)security of latest generation implantable cardiac defibrillators and how to secure them
-|5|2017.9.29|吕晨阳<br> 陈源| 
+|5|2017.9.29|吕晨阳<br> 陈源| Skyfire： Data-Driven Seed Generation for Fuzzing <br>Computer Security, Privacy, and DNA Sequencing_Compromising Computers with Synthesized DNA, Privacy Leaks, and More
 |6|2017.10.6|李宇薇<br> 刘倩君| 
 |7|2017.10.13|凌祥<br>	 李旭嵘 | 
 |8|2017.10.20|翁海琴	<br>王剑宇| 

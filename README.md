@@ -14,7 +14,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |4|2017.9.22|伍一鸣<br> 李长江| Acing the IOC Game: Toward Automatic Discovery and Analysis of Open-Source Cyber Threat Intelligence <br> On the (in)security of latest generation implantable cardiac defibrillators and how to secure them
 |5|2017.9.29|吕晨阳<br> 陈源| Skyfire： Data-Driven Seed Generation for Fuzzing <br>Computer Security, Privacy, and DNA Sequencing_Compromising Computers with Synthesized DNA, Privacy Leaks, and More
 |6|2017.10.6|李宇薇<br> 刘倩君| 
-|7|2017.10.13|凌祥<br>	 李旭嵘 | 
+|7|2017.10.13|凌祥<br> 李旭嵘 |Fake Co-visitation Injection Attacks to Recommender Systems <br>| 
 |8|2017.10.20|翁海琴	<br>王剑宇| 
 |9|2017.10.27|刘沛宇<br>  严凯| 
 |10|2017.11.3|施程辉<br> 唐凯宇 | 

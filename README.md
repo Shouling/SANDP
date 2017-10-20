@@ -15,7 +15,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |5|2017.9.29|吕晨阳<br> 陈源| Skyfire： Data-Driven Seed Generation for Fuzzing <br>Computer Security, Privacy, and DNA Sequencing_Compromising Computers with Synthesized DNA, Privacy Leaks, and More
 |6|2017.10.6|李宇薇<br> 刘倩君| 
 |7|2017.10.13|凌祥<br> 李旭嵘 |Fake Co-visitation Injection Attacks to Recommender Systems <br>Parking Sensors:Analyzing and Detecting Parked Domains| 
-|8|2017.10.20|翁海琴	<br>王剑宇| <br>MagNet: a Two-Pronged Defense against Adversarial Examples|
+|8|2017.10.20|翁海琴	<br>王剑宇|PDF Mirage: Content Masking Attack Against Information-Based Online Services <br>MagNet: a Two-Pronged Defense against Adversarial Examples|
 |9|2017.10.27|刘沛宇<br>  严凯| 
 |10|2017.11.3|施程辉<br> 唐凯宇 | 
 |11|2017.11.10|王   博 <br>魏成坤 | 

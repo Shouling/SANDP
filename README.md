@@ -21,7 +21,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |11|2017.11.10|陈源 | Online Tracking: 1 million site tracking measurement| 
 |12|2017.11.17|杜天宇 <br>李进锋| 
 |13|2017.11.24|伍一鸣<br> 李长江| 
-|14|2017.12.1|吕晨阳 <br>陈源| 
+|14|2017.12.1|吕晨阳 <br>刘倩君| 
 |15|2017.12.8|李宇薇<br> 刘倩君| 
 |16|2017.12.15|凌祥	<br> 李旭嵘| 
 |17|2017.12.22|翁海琴<br>	王剑宇| 

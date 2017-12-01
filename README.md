@@ -22,7 +22,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |12|2017.11.17|杜天宇 <br>李进锋| Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition <br> Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks |
 |13|2017.11.24|伍一鸣<br> 李长江| 
 |14|2017.12.1|魏成坤 <br>刘倩君| Concurrency and Privacy with Payment-Channel Networks | 
-|15|2017.12.8|李宇薇<br> 刘倩君| 
+|15|2017.12.8|周骏丰<br> 刘倩君| 
 |16|2017.12.15|凌祥	<br> 李旭嵘| 
 |17|2017.12.22|翁海琴<br>	王剑宇| 
 |18|2017.12.29|刘沛宇 <br> 严凯| 

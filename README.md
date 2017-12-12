@@ -16,7 +16,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |6|2017.10.6|李宇薇<br> 刘倩君| 
 |7|2017.10.13|凌祥<br> 李旭嵘 |Fake Co-visitation Injection Attacks to Recommender Systems <br>Parking Sensors:Analyzing and Detecting Parked Domains| 
 |8|2017.10.20|翁海琴	<br>王剑宇|PDF Mirage: Content Masking Attack Against Information-Based Online Services <br>MagNet: a Two-Pronged Defense against Adversarial Examples|
-|9|2017.10.27|刘沛宇<br>  严凯|vTZ: Virtualizing ARM TrustZone
+|9|2017.10.27|刘沛宇<br>  周俊丰|vTZ: Virtualizing ARM TrustZone
 |10|2017.11.3|施程辉<br> 唐凯宇 |BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain<br>Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning|
 |11|2017.11.10|陈源 | Online Tracking: 1 million site tracking measurement| 
 |12|2017.11.17|杜天宇 <br>李进锋| Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition <br> Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks |
@@ -25,7 +25,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |15|2017.12.8|周骏丰<br> 刘倩君| 
 |16|2017.12.15|凌祥	<br> 李旭嵘| 
 |17|2017.12.22|翁海琴<br>	王剑宇| 
-|18|2017.12.29|刘沛宇 <br> 严凯| 
+|18|2017.12.29|刘沛宇 <br> 吕晨阳| 
 |19|2018.1.5|施程辉<br> 唐凯宇| 
 |20|2018.1.12|陈源 <br> 王博| 
 |21|2018.1.19|杜天宇 <br> 李进锋| 

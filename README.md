@@ -26,17 +26,6 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |16|2017.12.15|卢令令	<br> 李旭嵘|Eclipse Attacks on Bitcoin’s Peer-to-Peer Network <br>Design and Evaluation of a Real-Time URL Spam Filtering Service|
 |17|2017.12.22|翁海琴<br>	王剑宇| Stealing Machine Learning Models via Prediction APIs <br> Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning
 |18|2017.12.29|刘沛宇 <br> 吕晨阳| 
-|19|2018.1.5|施程辉<br> 唐凯宇| 
-|20|2018.1.12|徐晓刚 <br> 王博| 
-|21|2018.1.19|杜天宇 <br> 李进锋| 
-|22|2018.1.26|伍一鸣 <br> 李长江| 
-|23|2018.2.2|魏成坤 <br> 吕晨阳| 
-|24|2018.2.9|李宇薇 <br> 刘倩君| 
-|25|2018.2.24|凌祥 <br> 李旭嵘| 
-|26|2018.3.2|翁海琴 <br> 王剑宇| 
-|27|2018.3.9|刘沛宇 <br> 周俊丰| 
-|28|2018.3.16|施程辉 <br> 唐凯宇| 
-
 
 
 

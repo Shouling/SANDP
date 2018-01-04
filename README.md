@@ -8,7 +8,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
-|1|2018.1.5|施程辉<br> 唐凯宇| 
+|1|2018.1.5|施程辉<br> 唐凯宇| DANCin SEQ2SEQ: Fooling Text Classifiers with
+Adversarial Text Example Generation <bar> ADVERSARIAL EXAMPLES IN THE PHYSICAL WORLD|
 |2|2018.1.12|徐晓刚 <br> 王博| 
 |3|2018.1.19|杜天宇 <br> 李进锋| 
 |4|2018.1.26|伍一鸣 <br> 李长江| 

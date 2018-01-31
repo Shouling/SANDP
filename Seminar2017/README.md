@@ -16,13 +16,13 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |6|2017.10.6|李宇薇<br> 刘倩君| 
 |7|2017.10.13|凌祥<br> 李旭嵘 |Fake Co-visitation Injection Attacks to Recommender Systems <br>Parking Sensors:Analyzing and Detecting Parked Domains| 
 |8|2017.10.20|翁海琴	<br>王剑宇|PDF Mirage: Content Masking Attack Against Information-Based Online Services <br>MagNet: a Two-Pronged Defense against Adversarial Examples|
-|9|2017.10.27|刘沛宇<br>  周俊丰|vTZ: Virtualizing ARM TrustZone
+|9|2017.10.27|刘沛宇<br> 周骏丰|vTZ: Virtualizing ARM TrustZone<br>Be Selfish and Avoid Dilemmas: Fork After Withholding (FAW) Attacks on Bitcoin
 |10|2017.11.3|施程辉<br> 唐凯宇 |BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain<br>Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning|
 |11|2017.11.10|陈源 | Online Tracking: 1 million site tracking measurement| 
 |12|2017.11.17|杜天宇 <br>李进锋| Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition <br> Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks |
 |13|2017.11.24|伍一鸣<br> 李长江| 
 |14|2017.12.1|魏成坤 <br>刘倩君| Concurrency and Privacy with Payment-Channel Networks | 
-|15|2017.12.8|周骏丰<br> 刘倩君| 
+|15|2017.12.8|周骏丰<br> 刘倩君| Picking Up My Tab: Understanding and Mitigating Synchronized Token Lifting and Spending in Mobile Payment |
 |16|2017.12.15|卢令令	<br> 李旭嵘|Eclipse Attacks on Bitcoin’s Peer-to-Peer Network <br>Design and Evaluation of a Real-Time URL Spam Filtering Service|
 |17|2017.12.22|翁海琴<br>	王剑宇| Stealing Machine Learning Models via Prediction APIs <br> Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning
 |18|2017.12.29|刘沛宇 <br> 吕晨阳| 

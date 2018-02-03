@@ -11,8 +11,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |1|2018.1.5|施程辉 <br> 唐凯宇|DANCin SEQ2SEQ: Fooling Text Classifiers with Adversarial Text Example Generation <br>ADVERSARIAL EXAMPLES IN THE PHYSICAL WORLD|
 |2|2018.1.12|徐晓刚 <br> 王博|Adversarial Attacks on Neural Network Policies <br> Meltdown & Spectre|
 |3|2018.1.19|刘沛宇 <br> 陈源|Broken Fingers: On the Usage of the Fingerprint API in Android <br> Didn’t You Hear Me? — Towards More Successful Web Vulnerability Notifications |
-|4|2018.1.26|卢令令 <br> 李长江|BLOCKBENCH: A Framework for Analyzing Private Blockchains <br> |
-|5|2018.2.2|杜天宇 <br> 李进锋|
+|4|2018.1.26|卢令令 <br> 李长江|BLOCKBENCH: A Framework for Analyzing Private Blockchains <br>  Feature Squeezing:Detecting Adversarial Examples in Deep Neural Networks|
+|5|2018.2.2|杜天宇 <br> 李进锋|Trojaning Attack on Neural Networks<br> Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data| 
 |6|2018.2.9|陈源 <br> 周俊丰| 
 |7|2018.2.24|李宇薇 <br> 刘倩君| 
 |8|2018.3.2|凌祥 <br>李旭嵘 |

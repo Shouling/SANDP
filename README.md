@@ -14,7 +14,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |4|2018.1.26|卢令令 <br> 李长江|BLOCKBENCH: A Framework for Analyzing Private Blockchains <br> |
 |5|2018.2.2|杜天宇 <br> 李进锋|
 |6|2018.2.9|陈源 <br> 周俊丰| 
-|7|2018.2.24|李宇薇 <br> 刘倩君| 
+|7|2018.2.24|李宇薇 <br> 刘倩君| Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection(CCS-17).
 |8|2018.3.2|凌祥 <br>李旭嵘 |
 |9|2018.3.9 |翁海琴 <br> 王剑宇| 
 |10|2018.3.16|伍一鸣 <br> 贺思睿| 

@@ -15,7 +15,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |5|2018.2.2|杜天宇 <br> 李进锋|Trojaning Attack on Neural Networks<br> Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data| 
 |6|2018.2.9| <br> | Report 
 |7|2018.2.24|李宇薇 <br> 刘倩君| Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection(CCS-17).
-|8|2018.3.2|凌祥 <br>李旭嵘 |
+|8|2018.3.2|凌祥 <br>李旭嵘 |<br>WHITENING BLACK-BOX NEURAL NETWORKS
 |9|2018.3.9 |翁海琴 <br> 王剑宇| 
 |10|2018.3.16|伍一鸣 <br> 贺思睿| 
 |11|2018.3.23|周俊丰 <br> 魏成坤| 

@@ -17,7 +17,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |7|2018.2.24|李宇薇 <br> 刘倩君| Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection(CCS-17).
 |8|2018.3.2|凌祥 <br>李旭嵘 |Adversarial Example Defenses: Ensembles of Weak Defenses are not Strong <br>WHITENING BLACK-BOX NEURAL NETWORKS
 |9|2018.3.9 |伍一鸣 <br>刘倩君| Game of Missuggestions: Semantic Analysis of Search-Autocomplete Manipulations<br>When coding style survives compilation: de-anonymizing programmers from executable binaries.
-|10|2018.3.16|伍一鸣 <br> 贺思睿|
+|10|2018.3.16|翁海琴 <br> 贺思睿|<br>Machine Learning Models that Remember Too Much
 |11|2018.3.23|周俊丰 <br> 魏成坤| 
 |12|2018.3.30|唐凯宇<br>吕晨阳|
 |13|2018.4.6| 施程辉<br>李长江|

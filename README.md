@@ -21,7 +21,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |11|2018.3.23|周骏丰 <br> 魏成坤| VulDeePecker: A Deep Learning-Based System for Vulnerability Detection<br>IKP: Turning a PKI Around with Decentralized Automated Incentives
 |12|2018.3.30|唐凯宇<br>吕晨阳|Knock Knock, Who’s There? Membership Inference on Aggregate Location Data<br>
 |13|2018.4.6| 段辅正<br>陈源|How to Learn Klingon Without Dictionary: Detection and Measurement of Black Keywords Used by Underground Economy
-|14|2018.4.13|刘栩威<br>肖特嗣|
+|14|2018.4.13|肖特嗣<br>刘栩威| ZOO: Zeroth Order Optimization Based Black-box Attacks to Deep Neural Networks without Training Substitute Models <br>Predicting the resilience of obfuscated code against symbolic execution attacks via machine learning
 |15|2018.4.20|周安妮<br>付丽嫆|
 |16|2018.4.27|冯依南<br>刘丁豪|
 |17|2018.5.4|王博<br>李长江|

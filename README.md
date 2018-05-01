@@ -25,7 +25,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |15|2018.4.20|周安妮<br>付丽嫆|PlatPal: Detecting Malicious Documents with Platform Diversity <br>BinSim: Trace-based Semantic Binary Diffing via System Call Sliced Segment Equivalence Checking
 |16|2018.4.27|冯依南<br>刘丁豪|
 |17|2018.5.4|王博<br>李长江|
-|18|2018.5.11|杜天宇<br>李进锋| Stealing Hyperparameters in Machine Learning
+|18|2018.5.11|杜天宇<br>李进锋| 
 |19|2018.5.18|施程辉<br>刘沛宇|
 |20|2018.5.25| 伍一鸣<br>李宇薇|
 |21|2018.6.1|刘倩君<br> 魏成坤|

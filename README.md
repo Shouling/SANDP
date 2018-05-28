@@ -27,7 +27,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |17|2018.5.4|王博<br>李长江|
 |18|2018.5.11|No Group meeting| 
 |19|2018.5.18|<br>刘沛宇|
-|20|2018.5.25| 伍一鸣<br>李宇薇|
+|20|2018.5.25|李宇薇| Angora: Efficient Fuzzing by Principled Search
 |21|2018.6.1|刘倩君<br> 魏成坤|
 |22|2018.6.8| 陈源<br> 吕晨阳|
 |23|2018.6.15|王博<br>唐凯宇|

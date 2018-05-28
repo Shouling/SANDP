@@ -26,15 +26,15 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |16|2018.4.27|冯依南<br>刘丁豪|RELIABLE ATTACKS AGAINST BLACK-BOX MACHINE LEARNING MODEL<br>Town Crier: An Authenticated Data Feed for Smart Contracts
 |17|2018.5.4|王博<br>李长江|
 |18|2018.5.11|No Group meeting| 
-|19|2018.5.18|施程辉<br>刘沛宇|
+|19|2018.5.18|<br>刘沛宇|
 |20|2018.5.25| 伍一鸣<br>李宇薇|
 |21|2018.6.1|刘倩君<br> 魏成坤|
 |22|2018.6.8| 陈源<br> 吕晨阳|
 |23|2018.6.15|王博<br>唐凯宇|
 |24|2018.6.22|杜天宇<br>李进峰|
-|25|2018.6.29|董剑辉<br>贺思睿|
+|25|2018.6.29|施程辉<br>贺思睿|
 |26|2018.7.6|王琴应<br>宋宇|
-|27|2018.7.13|<br>|
+|27|2018.7.13|董剑辉<br>|
 |28|2018.7.20|吴含露<br>黄铮杰|
 
 

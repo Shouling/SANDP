@@ -26,7 +26,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |16|2018.4.27|冯依南<br>刘丁豪|RELIABLE ATTACKS AGAINST BLACK-BOX MACHINE LEARNING MODEL<br>Town Crier: An Authenticated Data Feed for Smart Contracts
 |17|2018.5.4|王博<br>李长江|
 |18|2018.5.11|No Group meeting| 
-|19|2018.5.18|<br>刘沛宇|
+|19|2018.5.18|刘沛宇| Prudent Practices for Designing Malware Experiments: Status Quo and Outlook
 |20|2018.5.25|李宇薇| Angora: Efficient Fuzzing by Principled Search
 |21|2018.6.1|刘倩君<br> 魏成坤|
 |22|2018.6.8| 陈源<br> 吕晨阳|

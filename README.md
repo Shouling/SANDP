@@ -29,7 +29,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |19|2018.5.18|刘沛宇| Prudent Practices for Designing Malware Experiments: Status Quo and Outlook
 |20|2018.5.25|李宇薇| Angora: Efficient Fuzzing by Principled Search
 |21|2018.6.1|刘倩君<br> 魏成坤|
-|22|2018.6.8| 陈源<br> 吕晨阳| CCS 2017：  Directed Greybox Fuzzing
+|22|2018.6.8| 陈源<br> 吕晨阳| <br> CCS 2017：  Directed Greybox Fuzzing
 |23|2018.6.15|王博<br>唐凯宇|
 |24|2018.6.22|杜天宇<br>李进峰|
 |25|2018.6.29|施程辉<br>贺思睿|

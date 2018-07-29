@@ -36,10 +36,10 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |26|2018.7.6|王琴应<br>宋宇|
 |27|2018.7.13|黄诤杰<br>付丽嫆|
 |28|2018.7.20|吴含露<br>董剑辉|
-|29|2018.7.27|伍一鸣<br>卢令令|
+|29|2018.7.27|伍一鸣<br>卢令令| <br> CertChain Public and Efficient Certificate Audit Based on Blockchain for TLS Connections
 |30|2018.8.3|刘沛宇 <br>魏成坤|
 |31|2018.8.10|李长江<br>李宇薇|
-|32|2018.8.17|刘倩君<br>王博|
+|32|2018.8.17|翁海琴<br>王博|
 |33|2018.8.24|施程辉<br>唐凯宇|
 |34|2018.8.31|吕晨阳<br>陈源|
 |35|2018.9.7|王琴应<br>宋宇|

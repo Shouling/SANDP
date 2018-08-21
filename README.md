@@ -24,7 +24,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |14|2018.4.13|肖特嗣<br>刘栩威| ZOO: Zeroth Order Optimization Based Black-box Attacks to Deep Neural Networks without Training Substitute Models <br>Predicting the resilience of obfuscated code against symbolic execution attacks via machine learning
 |15|2018.4.20|周安妮<br>付丽嫆|PlatPal: Detecting Malicious Documents with Platform Diversity <br>BinSim: Trace-based Semantic Binary Diffing via System Call Sliced Segment Equivalence Checking
 |16|2018.4.27|冯依南<br>刘丁豪|RELIABLE ATTACKS AGAINST BLACK-BOX MACHINE LEARNING MODEL<br>Town Crier: An Authenticated Data Feed for Smart Contracts
-|17|2018.5.4|王博<br>李长江|
+|17|2018.5.4|施程辉<br>李长江| Spatially Transformed Adversarial Example
 |18|2018.5.11|No Group meeting| 
 |19|2018.5.18|刘沛宇| Prudent Practices for Designing Malware Experiments: Status Quo and Outlook
 |20|2018.5.25|李宇薇| Angora: Efficient Fuzzing by Principled Search
@@ -32,7 +32,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |22|2018.6.8| 陈源<br> 吕晨阳| <br> CCS 2017：  Directed Greybox Fuzzing
 |23|2018.6.15|王博<br>唐凯宇|
 |24|2018.6.22|杜天宇<br>李进峰|
-|25|2018.6.29|施程辉<br>贺思睿|
+|25|2018.6.29|施程辉<br>贺思睿| A Machine Learning Approach To Prevent Mailcious Calls Over Telephoney Networks
 |26|2018.7.6|王琴应<br>宋宇|
 |27|2018.7.13|黄诤杰<br>付丽嫆|
 |28|2018.7.20|吴含露<br>董剑辉| <br> Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning

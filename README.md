@@ -34,7 +34,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |24|2018.6.22|杜天宇<br>李进峰|
 |25|2018.6.29|施程辉<br>贺思睿| A Machine Learning Approach To Prevent Mailcious Calls Over Telephoney Networks
 |26|2018.7.6|王琴应<br>宋宇|
-|27|2018.7.13|黄诤杰<br>付丽嫆|
+|27|2018.7.13|黄诤杰<br>付丽嫆| SMARTPOOL: Practical Decentralized Pooled Mining
 |28|2018.7.20|吴含露<br>董剑辉| <br> Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning
 |29|2018.7.27|伍一鸣<br>卢令令| <br> CertChain Public and Efficient Certificate Audit Based on Blockchain for TLS Connections
 |30|2018.8.3|刘沛宇 <br>魏成坤| Dark Hazard: Learning-based, Large-Scale Discovery of Hidden Sensitive Operations in Android Apps

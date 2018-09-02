@@ -41,7 +41,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |31|2018.8.10|李长江<br>李宇薇| <br> SemFuzz: Semantics-based Automatic Generation of Proof-of-Concept Exploits (CCS-2017)
 |32|2018.8.17|翁海琴<br>王博|
 |33|2018.8.24|施程辉<br>唐凯宇|
-|34|2018.8.31|吕晨阳<br>陈源|
+|34|2018.8.31|吕晨阳<br>陈源|<br>Who Is Answering My Queries: Understanding and Characterizing Interception of the DNS Resolution Path
 |35|2018.9.7|王琴应<br>宋宇|
 |36|2018.9.14|黄诤杰<br>吴含露|
 |37|2018.9.21|董剑辉<br>陈安莹|

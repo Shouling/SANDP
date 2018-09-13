@@ -43,13 +43,13 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |33|2018.8.24|施程辉<br>唐凯宇|
 |34|2018.8.31|吕晨阳<br>陈源|<br>Who Is Answering My Queries: Understanding and Characterizing Interception of the DNS Resolution Path
 |35|2018.9.7|王琴应<br>宋宇|
-|36|2018.9.14|黄诤杰<br>吴含露|
+|36|2018.9.14|李旭嵘<br>付丽嫆|
 |37|2018.9.21|董剑辉<br>陈安莹|
-|38|2018.9.28|凌祥<br>李旭嵘|
+|38|2018.9.28|凌祥<br>黄诤杰|
 |39|2018.10.5|杜天宇<br>李进峰|
 |40|2018.10.12|贺思睿<br>段辅正|
 |41|2018.10.19|刘沛宇<br>魏成坤|
-|42|2018.10.26|付丽嫆 <br>翁海琴|
+|42|2018.10.26|吴含露 <br>翁海琴|
 |43|2018.11.2|卢令令<br>伍一鸣|
 |44|2018.11.9|李长江<br>李宇薇|
 |45|2018.11.16|刘倩君<br>王博|

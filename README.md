@@ -33,7 +33,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |23|2018.6.15|王博<br>唐凯宇|
 |24|2018.6.22|杜天宇<br>李进峰|
 |25|2018.6.29|施程辉<br>贺思睿| A Machine Learning Approach To Prevent Mailcious Calls Over Telephoney Networks
-|26|2018.7.6|王琴应<br>宋宇|
+|26|2018.7.6|王琴应<br>宋宇| Spying on the Smart Home Privacy Attacks and Defenses on Encrypted IoT Traffic
 |27|2018.7.13|黄诤杰<br>付丽嫆| SMARTPOOL: Practical Decentralized Pooled Mining
 |28|2018.7.20|吴含露<br>董剑辉| <br> Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning
 |29|2018.7.27|伍一鸣<br>卢令令| <br> CertChain Public and Efficient Certificate Audit Based on Blockchain for TLS Connections
@@ -42,7 +42,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |32|2018.8.17|翁海琴<br>王博|
 |33|2018.8.24|施程辉<br>唐凯宇|
 |34|2018.8.31|吕晨阳<br>陈源|<br>Who Is Answering My Queries: Understanding and Characterizing Interception of the DNS Resolution Path
-|35|2018.9.7|王琴应<br>宋宇|
+|35|2018.9.7|王琴应<br>宋宇| Analysis of Privacy Protections in Fitness Tracking Social Networks
 |36|2018.9.14|李旭嵘<br>付丽嫆|Detecting Adversarial Examples through Image Transformation<br>
 |37|2018.9.21|董剑辉<br>陈安莹|
 |38|2018.9.28|凌祥<br>黄诤杰|

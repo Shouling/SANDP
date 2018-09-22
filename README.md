@@ -44,7 +44,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |34|2018.8.31|吕晨阳<br>陈源|<br>Who Is Answering My Queries: Understanding and Characterizing Interception of the DNS Resolution Path
 |35|2018.9.7|王琴应<br>宋宇| Analysis of Privacy Protections in Fitness Tracking Social Networks
 |36|2018.9.14|李旭嵘<br>付丽嫆|Detecting Adversarial Examples through Image Transformation<br>
-|37|2018.9.21|董剑辉<br>陈安莹|
+|37|2018.9.21|董剑辉<br>陈安莹|Learning Universal Adversarial Perturbations with Generative Models<br>MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
 |38|2018.9.28|凌祥<br>黄诤杰|
 |39|2018.10.5|杜天宇<br>李进峰|
 |40|2018.10.12|贺思睿<br>段辅正|

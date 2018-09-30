@@ -34,7 +34,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |24|2018.6.22|杜天宇<br>李进峰|
 |25|2018.6.29|施程辉<br>贺思睿| A Machine Learning Approach To Prevent Mailcious Calls Over Telephoney Networks
 |26|2018.7.6|王琴应<br>宋宇| Spying on the Smart Home Privacy Attacks and Defenses on Encrypted IoT Traffic
-|27|2018.7.13|黄诤杰<br>付丽嫆| SMARTPOOL: Practical Decentralized Pooled Mining
+|27|2018.7.13|黄诤杰<br>付丽嫆| SMARTPOOL: Practical Decentralized Pooled Mining<br>
 |28|2018.7.20|吴含露<br>董剑辉| <br> Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning
 |29|2018.7.27|伍一鸣<br>卢令令| <br> CertChain Public and Efficient Certificate Audit Based on Blockchain for TLS Connections
 |30|2018.8.3|刘沛宇 <br>魏成坤| Dark Hazard: Learning-based, Large-Scale Discovery of Hidden Sensitive Operations in Android Apps
@@ -45,7 +45,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |35|2018.9.7|王琴应<br>宋宇| Analysis of Privacy Protections in Fitness Tracking Social Networks
 |36|2018.9.14|李旭嵘<br>付丽嫆|Detecting Adversarial Examples through Image Transformation<br>
 |37|2018.9.21|董剑辉<br>陈安莹|Learning Universal Adversarial Perturbations with Generative Models<br>MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
-|38|2018.9.28|凌祥<br>黄诤杰|
+|38|2018.9.28|凌祥<br>黄诤杰|<br>Zeus: Analyzing safety of smart contracts
 |39|2018.10.5|杜天宇<br>李进峰|
 |40|2018.10.12|贺思睿<br>段辅正|
 |41|2018.10.19|刘沛宇<br>魏成坤|

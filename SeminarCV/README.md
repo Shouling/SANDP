@@ -18,5 +18,5 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |8|2018.10.12|龙中子 <br> 李翔峰 <br> 程政国||
 |9|2018.10.19|阚宇鸿 <br> 林昭炜||
 |10|2018.10.26|马润杰 <br> 王赛卓 <br> 张曜 ||
-|2|2018.11.02|付之笑 <br> 龙中子||
+|11|2018.11.02|付之笑 <br> 龙中子||
 

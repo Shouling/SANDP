@@ -31,7 +31,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |21|2018.6.1|刘倩君<br> 魏成坤|
 |22|2018.6.8| 陈源<br> 吕晨阳| <br> CCS 2017：  Directed Greybox Fuzzing
 |23|2018.6.15|王博<br>唐凯宇|
-|24|2018.6.22|杜天宇<br>李进峰|
+|24|2018.6.22|杜天宇<br>李进锋|
 |25|2018.6.29|施程辉<br>贺思睿| A Machine Learning Approach To Prevent Mailcious Calls Over Telephoney Networks
 |26|2018.7.6|王琴应<br>宋宇| Spying on the Smart Home Privacy Attacks and Defenses on Encrypted IoT Traffic
 |27|2018.7.13|黄诤杰<br>付丽嫆| SMARTPOOL: Practical Decentralized Pooled Mining
@@ -46,7 +46,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |36|2018.9.14|李旭嵘<br>付丽嫆|Detecting Adversarial Examples through Image Transformation<br>
 |37|2018.9.21|董剑辉<br>陈安莹|Learning Universal Adversarial Perturbations with Generative Models<br>MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
 |38|2018.9.28|凌祥<br>黄诤杰|
-|39|2018.10.5|杜天宇<br>李进峰|
+|39|2018.10.5|杜天宇<br>李进锋|With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning <br> Exact and Consistent Interpretation for Piecewise Linear Neural Networks: A Closed Form Solution
 |40|2018.10.12|贺思睿<br>段辅正|
 |41|2018.10.19|刘沛宇<br>魏成坤|
 |42|2018.10.26|吴含露 <br>翁海琴|

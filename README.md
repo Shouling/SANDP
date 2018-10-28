@@ -50,7 +50,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |40|2018.10.12|贺思睿<br>段辅正|
 |41|2018.10.19|刘沛宇<br>魏成坤|
 |42|2018.10.26|吴含露 <br>翁海琴|
-|43|2018.11.2|卢令令<br>伍一鸣|
+|43|2018.11.2|卢令令<br>伍一鸣|usenixsecurity17 Ensuring Authorized Updates in Multi-user Database-Backed Applications
 |44|2018.11.9|付聪聪<br>李宇薇|
 |45|2018.11.16|胡思昊<br>王博|
 |46|2018.11.23|施程辉<br>李长江|

@@ -57,7 +57,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |47|2018.11.30|刘倩君<br>唐嘉蔚|
 |48|2018.12.7|邱鹏宇 <br>徐维亚|
 |49|2018.12.14|吕晨阳<br>唐凯宇|
-|50|2018.12.21|王琴应<br>宋宇|
+|50|2018.12.21|王琴应<br>宋宇|CCS18-On the Safety of IoT Device Physical Interaction Control
 |51|2018.12.28|吴寒露<br>张耀 |
 |51|2019.1.4|杜天宇<br>李进峰|
 |52|2019.1.11|Tariro Hope<br> 马哲|

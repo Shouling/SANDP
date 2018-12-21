@@ -31,7 +31,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |21|2018.6.1|刘倩君<br> 魏成坤|
 |22|2018.6.8| 陈源<br> 吕晨阳| <br> CCS 2017：  Directed Greybox Fuzzing
 |23|2018.6.15|王博<br>唐凯宇|
-|24|2018.6.22|杜天宇<br>李进峰|
+|24|2018.6.22|杜天宇<br>李进锋|
 |25|2018.6.29|施程辉<br>贺思睿| A Machine Learning Approach To Prevent Mailcious Calls Over Telephoney Networks
 |26|2018.7.6|王琴应<br>宋宇| Spying on the Smart Home Privacy Attacks and Defenses on Encrypted IoT Traffic
 |27|2018.7.13|黄诤杰<br>付丽嫆| SMARTPOOL: Practical Decentralized Pooled Mining
@@ -44,17 +44,24 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |34|2018.8.31|吕晨阳<br>陈源|<br>Who Is Answering My Queries: Understanding and Characterizing Interception of the DNS Resolution Path
 |35|2018.9.7|王琴应<br>宋宇| Analysis of Privacy Protections in Fitness Tracking Social Networks
 |36|2018.9.14|李旭嵘<br>付丽嫆|Detecting Adversarial Examples through Image Transformation<br>
-|37|2018.9.21|董剑辉<br>陈安莹|
+|37|2018.9.21|董剑辉<br>陈安莹|Learning Universal Adversarial Perturbations with Generative Models<br>MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
 |38|2018.9.28|凌祥<br>黄诤杰|
-|39|2018.10.5|杜天宇<br>李进峰|
+|39|2018.10.5|杜天宇<br>李进锋|With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning <br> Exact and Consistent Interpretation for Piecewise Linear Neural Networks: A Closed Form Solution
 |40|2018.10.12|贺思睿<br>段辅正|
 |41|2018.10.19|刘沛宇<br>魏成坤|
 |42|2018.10.26|吴含露 <br>翁海琴|
-|43|2018.11.2|卢令令<br>伍一鸣|
-|44|2018.11.9|李长江<br>李宇薇|
-|45|2018.11.16|刘倩君<br>王博|
-|46|2018.11.23|施程辉<br>唐凯宇|
-|47|2018.11.30|吕晨阳<br>陈源|
-|48|2018.12.7|王琴应<br>宋宇|
-|49|2018.12.14|黄诤杰<br>吴寒露|
-|50|2018.12.21|董剑辉<br>陈安莹|
+|43|2018.11.2|卢令令<br>伍一鸣|usenixsecurity17 Ensuring Authorized Updates in Multi-user Database-Backed Applications
+|44|2018.11.9|付聪聪<br>李宇薇|
+|45|2018.11.16|胡思昊<br>王博|
+|46|2018.11.23|施程辉<br>李长江|
+|47|2018.11.30|刘倩君<br>唐嘉蔚|
+|48|2018.12.7|邱鹏宇 <br>徐维亚|
+|49|2018.12.14|吕晨阳<br>唐凯宇|
+|50|2018.12.21|王琴应<br>宋宇|
+|51|2018.12.28|吴寒露<br>张耀 |
+|51|2019.1.4|杜天宇<br>李进峰|
+|52|2019.1.11|Tariro Hope<br> 马哲|
+|53|2019.1.18|赵彬彬<br>陈安莹|
+|54|2019.1.25|黄诤杰<br>陈源|
+
+

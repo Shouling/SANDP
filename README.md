@@ -11,11 +11,11 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |1|2018.12.7|邱鹏宇 <br>徐维亚|
 |2|2018.12.14|吕晨阳<br>唐凯宇|
 |3|2018.12.21|王琴应<br>宋宇|
-|4|2018.12.28|吴寒露<br>张耀 |
+|4|2018.12.28|陈安莹<br>张耀| Multi-label Learning with Highly Incomplete Data via Collaborative Embedding
 |5|2019.1.4|杜天宇<br>李进锋|
 |6|2019.1.11|应燕芸<br> 马哲|
-|7|2019.1.18|赵彬彬<br>陈安莹|
-|8|2019.1.25|黄诤杰<br>陈源|
+|7|2019.1.18|赵彬彬<br>黄诤杰|
+|8|2019.1.25|吴寒露<br>陈源|
 |9|2019.2.15|刘沛宇<br>魏成坤|
 |10|2019.2.22|卢令令 <br>周俊丰|
 |11|2019.3.1|贺思睿<br>段辅正|
@@ -28,6 +28,3 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |18|2019.4.19|吴寒露<br>张耀|
 |19|2019.4.26|杜天宇<br>李进锋|
 |20|2019.5.3|陈安莹<br>徐维亚|
-
-
-

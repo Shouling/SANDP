@@ -43,7 +43,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |33|2019.8.2|陈安莹<br>徐维亚
 |34|2019.8.16|李长江<br>吕晨阳
 |35|2019.8.23|杜天宇<br>李进峰
-|36|2019.8.30|
+|36|2019.8.30|魏成坤<br>贺思睿
 
 
 

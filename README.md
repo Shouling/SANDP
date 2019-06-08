@@ -17,7 +17,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |7|2019.1.18|赵彬彬<br>陈安莹|
 |8|2019.1.25|黄诤杰<br>陈源|
 |9|2019.2.15|刘沛宇<br>|
-|10|2019.2.22|卢令令 <br>周俊丰|
+|10|2019.2.22|卢令令 <br>周俊丰|Eurosys2018:Hyperledger Fabric：a Distributed Operating System for Permissioned Blockchains
 |11|2019.3.1|贺思睿<br>段辅正|
 |12|2019.3.8|伍一鸣<br>李宇薇|
 |13|2019.3.15|马哲<br>吕晨阳|

@@ -5,7 +5,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 **Location**： Zetonglou 104
 
 **Time**: 18:00-20:00  Welcome to attend the seminar!
-
+由于疫情影响
+下次group meeting组会从第四组2.7人员开始依次顺延
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
 |1|2020.1.3|李宇薇<br>刘倩君|

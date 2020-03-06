@@ -8,7 +8,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
-|1|2020.1.3|李宇薇<br>刘倩君|Full-speed Fuzzing: Reducing Fuzzing Overhad through Coverage-guided Tracing
+|1|2020.1.3|李宇薇<br>刘倩君|Full-speed Fuzzing: Reducing Fuzzing Overhad through Coverage-guided Tracing (S&P 2019)
 |2|2020.1.10|卢令令<br>周俊丰||
 |3|2020.1.17|邱鹏宇<br>沈鹿嘉||
 |4| 2020.2.28 |唐嘉蔚<br>应燕芸||

@@ -13,7 +13,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |3|2020.1.17|邱鹏宇<br>沈鹿嘉||
 |4| 2020.2.28 |唐嘉蔚<br>应燕芸||
 |5| 2020.3.6 |王琴应<br>付冲| Burglars’ IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds (S&P 2020) <br> Stealthy Porn: Understanding Real-World Adversarial Images for Illicit Online Promotion (S&P 2019)
-|6| 2020.3.13 |王赛卓<br>王博||
+|6| 2020.3.13 |王赛卓<br>王博|Intriguing Properties of Adversarial ML Attacks in the Problem Space (S&P 2020) <br>|
 |7| 2020.3.20 |胡思昊<br>付之笑||
 |8| 2020.3.27 |魏成坤<br>付丽嫆||
 |9| 2020.4.3 |施程辉<br>段辅正||

@@ -16,7 +16,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |6| 2020.3.13 |王赛卓<br>王博|Intriguing Properties of Adversarial ML Attacks in the Problem Space (S&P 2020) <br>|
 |7| 2020.3.20 |胡思昊<br>付之笑||MSG-GAN: Multi-Scale Gradients for Generative Adversarial Networks(CVPR 2020)
 |8| 2020.3.27 |魏成坤<br>付丽嫆||
-|9| 2020.4.3 |施程辉<br>段辅正||
+|9| 2020.4.3 |施程辉<br>段辅正|| Using Pre-Training Can Improve Model Robustness and Uncertainty
 |10| 2020.4.10 |方佳<br>伍一鸣||
 |11| 2020.4.17 |杜天宇<br>陈安莹||
 |12|2020.4.24|吴寒露<br>马哲||

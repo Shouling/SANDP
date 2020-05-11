@@ -1,4 +1,4 @@
-# Agenda 2020
+﻿# Agenda 2020
 Please upload your **slides** or a **introduction (Chinese or English)** of your presentation **in advance**,
 such as **conference, title, abstract**，which can be written in the form of [markdown](http://sspai.com/25137). Please add your title in the agenda.
 
@@ -23,12 +23,12 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |13|2020.5.1|刘沛宇<br>张耀||
 |14|2020.5.8|刘丁豪<br>谢之源||
 |15|2020.5.15|卢令令<br>邱鹏宇||
-|16|2020.5.22|陈源<br>吕晨阳||
+|16|2020.5.22|陈源<br>沈鹿嘉||
 |17|2020.5.29|应燕芸<br>唐嘉蔚||
 |18|2020.6.5|付冲<br>王琴应||
 |19|2020.6.12|付之笑<br>王赛卓||
 |20|2020.6.19|付丽嫆<br>王博|
 |21|2020.6.26|方佳<br>陈安莹|
 |22|2020.7.3|杜天宇<br>伍一鸣|
-|23|2020.7.10|施程辉<br>沈鹿嘉|
+|23|2020.7.10|施程辉<br>吕晨阳|
 

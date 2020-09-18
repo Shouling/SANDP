@@ -8,14 +8,6 @@ such as **conference, title, abstract**，which can be written in the form of [m
 **Time**: Friday 18:00-20:00  Welcome to attend the seminar!
 
 
-```diff
-- ATTENTION: Migration happens
-```
-
-New address: https://github.com/ZJUNESA/SANDP
-
-
-
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
 |1|2020.1.3|李宇薇<br>刘倩君||
@@ -50,7 +42,7 @@ New address: https://github.com/ZJUNESA/SANDP
 |30|2020.8.28|付冲<br>王琴应||
 |31|2020.9.4|方佳<br>陈安莹||
 |32|2020.9.11|付丽嫆<br>王博||
-|33|2020.9.18|杜天宇<br>伍一鸣||
+|33|2020.9.18|杜天宇<br>伍一鸣|Short Text, Large Effect: Measuring the Impact of User Reviews on Android App Security & Privacy, IEEE S&P 2019<br>Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification, EMNLP 2019|
 |34|2020.9.25|吴寒露<br>马哲||
 |35|2020.10.2|施程辉<br>刘丁豪||
 |36|2020.10.9|方佳<br>沈鹿嘉||

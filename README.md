@@ -21,7 +21,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |9| 2020.4.3 |施程辉<br>沈鹿嘉||
 |10| 2020.4.10 |方佳<br>伍一鸣||
 |11| 2020.4.17 |杜天宇<br>陈安莹||
-|12|2020.4.24|吴寒露<br>马哲||
+|12|2020.4.24|吴含露<br>马哲||
 |13|2020.5.1|刘沛宇<br>张耀||
 |14|2020.5.8|刘丁豪<br>谢之源||
 |15|2020.5.15|卢令令<br>邱鹏宇||
@@ -33,7 +33,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |21|2020.6.26|方佳<br>陈安莹||
 |22|2020.7.3|杜天宇<br>伍一鸣||
 |23|2020.7.10|施程辉<br>吕晨阳||
-|24|2020.7.17|吴寒露<br>马哲||
+|24|2020.7.17|吴含露<br>马哲||
 |25|2020.7.24|刘沛宇<br>张耀||
 |26|2020.7.31|刘丁豪<br>谢之源||
 |27|2020.8.7|卢令令<br>邱鹏宇||
@@ -43,12 +43,12 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |31|2020.9.4|方佳<br>陈安莹||
 |32|2020.9.11|付丽嫆<br>王博||
 |33|2020.9.18|杜天宇<br>伍一鸣|Short Text, Large Effect: Measuring the Impact of User Reviews on Android App Security & Privacy, IEEE S&P 2019<br>Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification, EMNLP 2019|
-|34|2020.9.25|吴寒露<br>马哲||
+|34|2020.9.25|吴含露<br>马哲||
 |35|2020.10.2|施程辉<br>刘丁豪||
 |36|2020.10.9|方佳<br>沈鹿嘉||
 |37|2020.10.16|王琴应<br>付冲||
 |38|2020.10.23|邱鹏宇<br>付丽嫆||
-|39|2020.10.30|王博<br>吴寒露||
+|39|2020.10.30|王博<br>吴含露||
 |40|2020.11.6|马哲<br>陈源||
 |41|2020.11.13|梁红<br>唐嘉蔚||
 |42|2020.11.20|应燕芸<br>张耀||

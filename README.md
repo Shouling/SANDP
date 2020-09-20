@@ -8,6 +8,13 @@ such as **conference, title, abstract**，which can be written in the form of [m
 **Time**: Friday 18:00-20:00  Welcome to attend the seminar!
 
 
+```diff
+- ATTENTION: Migration happens
+```
+
+New address: https://github.com/ZJUNESA/SANDP
+
+
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
 |1|2020.1.3|李宇薇<br>刘倩君||

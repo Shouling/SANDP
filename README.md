@@ -50,7 +50,7 @@ New address: https://github.com/ZJUNESA/SANDP
 |31|2020.9.4|方佳<br>陈安莹||
 |32|2020.9.11|付丽嫆<br>王博||
 |33|2020.9.18|杜天宇<br>伍一鸣|Short Text, Large Effect: Measuring the Impact of User Reviews on Android App Security & Privacy, IEEE S&P 2019<br>Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification, EMNLP 2019|
-|34|2020.9.25|吴含露<br>马哲||
+|34|2020.9.25|吴含露<br>马哲|Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach, ACM CCS 2018<br>Looking Fast and Slow: Memory-Guided Mobile Video Object Detection, arXiv 2019|
 |35|2020.10.2|施程辉<br>刘丁豪||
 |36|2020.10.9|方佳<br>沈鹿嘉||
 |37|2020.10.16|王琴应<br>付冲||

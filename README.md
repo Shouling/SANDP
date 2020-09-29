@@ -27,7 +27,7 @@ New address: https://github.com/ZJUNESA/SANDP
 |8| 2020.3.27 |魏成坤<br>付丽嫆||
 |9| 2020.4.3 |施程辉<br>沈鹿嘉||
 |10| 2020.4.10 |方佳<br>伍一鸣||
-|11| 2020.4.17 |杜天宇<br>陈安莹||
+|11| 2020.4.17 |杜天宇<br>陈安莹|When Malware is Packin’ Heat; Limits of Machine Learning Classifiers Based on Static Analysis Features, NDSS 2020|
 |12|2020.4.24|吴含露<br>马哲||
 |13|2020.5.1|刘沛宇<br>张耀||
 |14|2020.5.8|刘丁豪<br>谢之源||
@@ -37,7 +37,7 @@ New address: https://github.com/ZJUNESA/SANDP
 |18|2020.6.5|付冲<br>王琴应||
 |19|2020.6.12|付之笑<br>王赛卓||
 |20|2020.6.19|付丽嫆<br>王博||
-|21|2020.6.26|方佳<br>陈安莹||
+|21|2020.6.26|方佳<br>陈安莹|Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning,  IEEE S&P 2020|
 |22|2020.7.3|杜天宇<br>伍一鸣||
 |23|2020.7.10|施程辉<br>吕晨阳||
 |24|2020.7.17|吴含露<br>马哲||
@@ -46,9 +46,9 @@ New address: https://github.com/ZJUNESA/SANDP
 |27|2020.8.7|卢令令<br>邱鹏宇||
 |28|2020.8.14|陈源<br>陈越尧||
 |29|2020.8.21|唐嘉蔚<br>应燕芸||
-|30|2020.8.28|付冲<br>王琴应||
-|31|2020.9.4|方佳<br>陈安莹||
-|32|2020.9.11|付丽嫆<br>王博||
+|30|2020.8.28|付冲<br>王琴应|High Accuracy and High Fidelity Extraction of Neural Networks, USENIX Security 2020|
+|31|2020.9.4|方佳<br>陈安莹|BDA: Practical Dependence Analysis for Binary Executables by Unbiased Whole-Program Path Sampling and Per-Path Abstract Interpretation, OOPSLA 2019|
+|32|2020.9.11|付丽嫆<br>王博|PDiff: Semantic-based Patch Presence Testing for Downstream Kernels, ACM CCS 2020|
 |33|2020.9.18|杜天宇<br>伍一鸣|Short Text, Large Effect: Measuring the Impact of User Reviews on Android App Security & Privacy, IEEE S&P 2019<br>Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification, EMNLP 2019|
 |34|2020.9.25|吴含露<br>马哲|Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach, ACM CCS 2018<br>Looking Fast and Slow: Memory-Guided Mobile Video Object Detection, arXiv 2019|
 |35|2020.10.2|施程辉<br>刘丁豪||

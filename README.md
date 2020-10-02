@@ -8,13 +8,6 @@ such as **conference, title, abstract**，which can be written in the form of [m
 **Time**: Friday 18:00-20:00  Welcome to attend the seminar!
 
 
-```diff
-- ATTENTION: Migration happens
-```
-
-New address: https://github.com/ZJUNESA/SANDP
-
-
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
 |1|2020.1.3|李宇薇<br>刘倩君||
@@ -57,7 +50,7 @@ New address: https://github.com/ZJUNESA/SANDP
 |38|2020.10.23|邱鹏宇<br>付丽嫆||
 |39|2020.10.30|王博<br>卢令令||
 |40|2020.11.6|马哲<br>陈源||
-|41|2020.11.13|梁红<br>唐嘉蔚||Not All Coverage Measurements Are Equal:Fuzzing by Coverage Accounting for Input Prioritization, NDSS 2020<br>|
+|41|2020.11.13|梁红<br>唐嘉蔚|Not All Coverage Measurements Are Equal:Fuzzing by Coverage Accounting for Input Prioritization, NDSS 2020<br>|
 |42|2020.11.20|应燕芸<br>张耀||
 |43|2020.11.27|付之笑<br>沈鹿嘉||
 |44|2020.12.4|向意<br>甘雨由||

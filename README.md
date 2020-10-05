@@ -46,10 +46,10 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |34|2020.9.25|吴含露<br>马哲|Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach, ACM CCS 2018<br>Looking Fast and Slow: Memory-Guided Mobile Video Object Detection, arXiv 2019|
 |35|2020.10.2|施程辉<br>刘丁豪|Check It Again: Detecting Lacking-Recheck Bugs in OS Kernels, ACM CCS 2018|
 |36|2020.10.9|方佳<br>沈鹿嘉||
-|37|2020.10.16|王琴应<br>付冲||
+|37|2020.10.16|陈源<br>付冲||
 |38|2020.10.23|邱鹏宇<br>付丽嫆||
 |39|2020.10.30|王博<br>卢令令||
-|40|2020.11.6|马哲<br>陈源||
+|40|2020.11.6|马哲<br>王琴应||
 |41|2020.11.13|梁红<br>唐嘉蔚|Not All Coverage Measurements Are Equal:Fuzzing by Coverage Accounting for Input Prioritization, NDSS 2020<br>|
 |42|2020.11.20|应燕芸<br>张耀||
 |43|2020.11.27|付之笑<br>沈鹿嘉||

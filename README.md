@@ -46,15 +46,15 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |34|2020.9.25|吴含露<br>马哲|Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach, ACM CCS 2018<br>Looking Fast and Slow: Memory-Guided Mobile Video Object Detection, arXiv 2019|
 |35|2020.10.2|施程辉<br>刘丁豪|Latent Backdoor Attacks on Deep Neural Networks, ACM CCS 2019<br>Check It Again: Detecting Lacking-Recheck Bugs in OS Kernels, ACM CCS 2018|
 |36|2020.10.9|方佳<br>沈鹿嘉|Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules, arXiv 2019<br>STRIP: A Defence Against Trojan Attacks on Deep Neural Networks, ACSAC 19|
-|37|2020.10.16|陈源<br>梁红|<br>Not All Coverage Measurements Are Equal:Fuzzing by Coverage Accounting for Input Prioritization, NDSS 2020<br>|
-|38|2020.10.23|邱鹏宇<br>付丽嫆||
-|39|2020.10.30|王博<br>卢令令||
-|40|2020.11.6|马哲<br>王琴应||
-|41|2020.11.13|付冲<br>唐嘉蔚||
-|42|2020.11.20|应燕芸<br>张耀||
-|43|2020.11.27|付之笑<br>沈鹿嘉||
-|44|2020.12.4|向意<br>甘雨由||
-|45|2020.12.11|陈越尧<br>吴含露||
-|47|2020.12.18|陈安莹<br>谢之源||
-|48|2020.12.25|刘丁豪<br>付之笑||
+|37|2020.10.16|||
+|38|2020.10.23|陈源<br>梁红|<br>Not All Coverage Measurements Are Equal:Fuzzing by Coverage Accounting for Input Prioritization, NDSS 2020<br>|
+|39|2020.10.30|邱鹏宇<br>付丽嫆||
+|40|2020.11.6|王博<br>卢令令||
+|41|2020.11.13|马哲<br>王琴应||
+|42|2020.11.20|付冲<br>唐嘉蔚||
+|43|2020.11.27|应燕芸<br>张耀||
+|44|2020.12.4|付之笑<br>沈鹿嘉||
+|45|2020.12.11|向意<br>甘雨由||
+|47|2020.12.18|陈越尧<br>吴含露||
+|48|2020.12.25|陈安莹<br>谢之源||
 

@@ -47,7 +47,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |35|2020.10.2|施程辉<br>刘丁豪|Latent Backdoor Attacks on Deep Neural Networks, ACM CCS 2019<br>Check It Again: Detecting Lacking-Recheck Bugs in OS Kernels, ACM CCS 2018|
 |36|2020.10.9|方佳<br>沈鹿嘉|Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules, arXiv 2019<br>STRIP: A Defence Against Trojan Attacks on Deep Neural Networks, ACSAC 19|
 |37|2020.10.16|||
-|38|2020.10.23|陈源<br>梁红|<br>Not All Coverage Measurements Are Equal:Fuzzing by Coverage Accounting for Input Prioritization, NDSS 2020<br>|
+|38|2020.10.23|陈源<br>梁红|Cached and Confused: Web Cache Deception in the Wild [arxiv](https://arxiv.org/abs/1912.10190) [pdf](https://www.usenix.org/system/files/sec20-mirheidari.pdf) [video](https://www.youtube.com/watch?v=_iys-lco2Ug)<br>Not All Coverage Measurements Are Equal:Fuzzing by Coverage Accounting for Input Prioritization, NDSS 2020<br>|
 |39|2020.10.30|邱鹏宇<br>付丽嫆||
 |40|2020.11.6|王博<br>卢令令||
 |41|2020.11.13|马哲<br>王琴应||

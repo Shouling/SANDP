@@ -39,7 +39,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |27|2020.8.7|卢令令<br>邱鹏宇||
 |28|2020.8.14|陈源<br>陈越尧||
 |29|2020.8.21|唐嘉蔚<br>应燕芸||
-|30|2020.8.28|付冲<br>王琴应|High Accuracy and High Fidelity Extraction of Neural Networks, USENIX Security 2020 | Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT, Usenix 2020
+|30|2020.8.28|付冲<br>王琴应|High Accuracy and High Fidelity Extraction of Neural Networks, USENIX Security 2020 <br> Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT, Usenix 2020|
 |31|2020.9.4|方佳<br>陈安莹|BDA: Practical Dependence Analysis for Binary Executables by Unbiased Whole-Program Path Sampling and Per-Path Abstract Interpretation, OOPSLA 2019|
 |32|2020.9.11|付丽嫆<br>王博|PDiff: Semantic-based Patch Presence Testing for Downstream Kernels, ACM CCS 2020|
 |33|2020.9.18|杜天宇<br>伍一鸣|Short Text, Large Effect: Measuring the Impact of User Reviews on Android App Security & Privacy, IEEE S&P 2019<br>Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification, EMNLP 2019|

@@ -14,7 +14,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |2|2020.1.10|卢令令<br>周俊丰||
 |3|2020.1.17|邱鹏宇<br>沈鹿嘉||
 |4| 2020.2.28 |唐嘉蔚<br>应燕芸||
-|5| 2020.3.6 |王琴应<br>付冲||Burglars’ IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds, Oakland 2020
+|5| 2020.3.6 |王琴应<br>付冲||Burglars’ IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds, IEEE S&P 2020
 |6| 2020.3.13 |王赛卓<br>王博||
 |7| 2020.3.20 |胡思昊<br>付之笑||
 |8| 2020.3.27 |魏成坤<br>付丽嫆||
@@ -27,7 +27,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |15|2020.5.15|卢令令<br>邱鹏宇||
 |16|2020.5.22|陈源<br>沈鹿嘉||
 |17|2020.5.29|应燕芸<br>唐嘉蔚||
-|18|2020.6.5|付冲<br>王琴应|| | BIAS: Bluetooth Impersonation AttackS, Oakland 2020
+|18|2020.6.5|付冲<br>王琴应|| | BIAS: Bluetooth Impersonation AttackS, IEEE S&P 2020
 |19|2020.6.12|付之笑<br>王赛卓||
 |20|2020.6.19|付丽嫆<br>王博||
 |21|2020.6.26|方佳<br>陈安莹|Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning,  IEEE S&P 2020|

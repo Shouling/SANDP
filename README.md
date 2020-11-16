@@ -39,7 +39,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |27|2020.8.7|卢令令<br>邱鹏宇||
 |28|2020.8.14|陈源<br>陈越尧||
 |29|2020.8.21|唐嘉蔚<br>应燕芸||
-|30|2020.8.28|付冲<br>王琴应|High Accuracy and High Fidelity Extraction of Neural Networks, USENIX Security 2020 <br> Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT, Usenix 2020|
+|30|2020.8.28|付冲<br>王琴应|High Accuracy and High Fidelity Extraction of Neural Networks, USENIX Security 2020 <br> Plug-N-Pwned: Comprehensive Vulnerability Analysis of OBD-II Dongles as A New Over-the-Air Attack Surface in Automotive IoT, USENIX Security 2020|
 |31|2020.9.4|方佳<br>陈安莹|BDA: Practical Dependence Analysis for Binary Executables by Unbiased Whole-Program Path Sampling and Per-Path Abstract Interpretation, OOPSLA 2019|
 |32|2020.9.11|付丽嫆<br>王博|PDiff: Semantic-based Patch Presence Testing for Downstream Kernels, ACM CCS 2020|
 |33|2020.9.18|杜天宇<br>伍一鸣|Short Text, Large Effect: Measuring the Impact of User Reviews on Android App Security & Privacy, IEEE S&P 2019<br>Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification, EMNLP 2019|
@@ -49,7 +49,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |37|2020.10.16|||
 |38|2020.10.23|陈源<br>梁红|Cached and Confused: Web Cache Deception in the Wild, USENIX Security 2020<br>Not All Coverage Measurements Are Equal:Fuzzing by Coverage Accounting for Input Prioritization, NDSS 2020|
 |39|2020.10.30|邱鹏宇<br>付丽嫆|Machine Unlearning, IEEE S&P 2021<br>Precisely Characterizing Security Impact in a Flood of Patches via Symbolic Rule Comparison, NDSS 2020|
-|40|2020.11.6|王博<br>卢令令|Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable Systems, Usenix 2020<br>GEM^2-Tree: A Gas-Efficient Structure for Authenticated Range Queries in Blockchain, ICDE 2019|
+|40|2020.11.6|王博<br>卢令令|Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable Systems, USENIX Security 2020<br>GEM^2-Tree: A Gas-Efficient Structure for Authenticated Range Queries in Blockchain, ICDE 2019|
 |41|2020.11.13|马哲<br>王琴应|An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, arXiv 2020<br>Unearthing the TrustedCore: A Critical Review on Huawei’s Trusted Execution Environment, USENIX Security 2020|
 |42|2020.11.20|付冲<br>唐嘉蔚||
 |43|2020.11.27|应燕芸<br>张耀||

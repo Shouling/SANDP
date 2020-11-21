@@ -51,7 +51,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |39|2020.10.30|邱鹏宇<br>付丽嫆|Machine Unlearning, IEEE S&P 2021<br>Precisely Characterizing Security Impact in a Flood of Patches via Symbolic Rule Comparison, NDSS 2020|
 |40|2020.11.6|王博<br>卢令令|Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable Systems, USENIX Security 2020<br>GEM^2-Tree: A Gas-Efficient Structure for Authenticated Range Queries in Blockchain, ICDE 2019|
 |41|2020.11.13|马哲<br>王琴应|An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, arXiv 2020<br>Unearthing the TrustedCore: A Critical Review on Huawei’s Trusted Execution Environment, USENIX Security 2020|
-|42|2020.11.20|付冲<br>唐嘉蔚||
+|42|2020.11.20|付冲<br>唐嘉蔚|<br>With great training comes great vulnerability: Practical attacks against transfer learning, USENIX Security 2018|
 |43|2020.11.27|应燕芸<br>张耀||
 |44|2020.12.4|付之笑<br>沈鹿嘉||
 |45|2020.12.11|向意<br>甘雨由||

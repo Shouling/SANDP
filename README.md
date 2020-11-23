@@ -52,9 +52,9 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |40|2020.11.6|王博<br>卢令令|Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable Systems, USENIX Security 2020<br>GEM^2-Tree: A Gas-Efficient Structure for Authenticated Range Queries in Blockchain, ICDE 2019|
 |41|2020.11.13|马哲<br>王琴应|An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, arXiv 2020<br>Unearthing the TrustedCore: A Critical Review on Huawei’s Trusted Execution Environment, USENIX Security 2020|
 |42|2020.11.20|付冲<br>张耀|Attack of the Tails: Yes, You Really Can Backdoor Federated Learning, NIPS 2020<br>With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning, USENIX Security 2018|
-|43|2020.11.27|应燕芸<br>唐嘉蔚||
+|43|2020.11.27|应燕芸<br>吴含露||
 |44|2020.12.4|付之笑<br>沈鹿嘉||
 |45|2020.12.11|向意<br>甘雨由||
-|47|2020.12.18|陈越尧<br>吴含露||
+|47|2020.12.18|陈越尧<br>唐嘉蔚||
 |48|2020.12.25|陈安莹<br>谢之源||
 

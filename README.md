@@ -55,6 +55,6 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |43|2020.11.27|应燕芸<br>吴含露|Deep learning of spontaneous arousal fluctuations detects early cholinergic defects across neurodevelopmental mouse models and patients, PNAS 2020<br>TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding, KDD 2020|
 |44|2020.12.4|付之笑<br>沈鹿嘉|Deepfakes Detection with Automatic Face Weighting, CVPRW 2020<br>Demon in the Variant: Statistical Analysis of DNNs for Robust Backdoor Contamination Detection, USENIX Security 2021|
 |45|2020.12.11|向意<br>甘雨由|Targeted Greybox Fuzzing with Static Lookahead Analysis, ICSE 2020<br>Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks, CVPRW 2020|
-|47|2020.12.18|陈越尧<br>唐嘉蔚||
-|48|2020.12.25|陈安莹<br>谢之源||
+|47|2020.12.18|陈越尧<br>唐嘉蔚|UNIFUZZ: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers, USENIX Security 2021<br>Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security, ACM CCS 2019|
+|48|2020.12.25|陈安莹<br>施程辉||
 

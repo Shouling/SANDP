@@ -11,7 +11,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
 |1|2020.12.25|陈安莹<br>施程辉||
-|2|2021.1.1|陈源<br>邱鹏宇||
+|2|2021.1.1|陈源<br>邱鹏宇|sFuzz: An Efficient Adaptive Fuzzer for Solidity Smart Contracts|
 |3|2021.1.8|王琴应<br>应燕芸||
 |4|2021.1.15|施程辉<br>刘丁豪||
 |5|2021.1.22|马哲<br>唐嘉蔚||

@@ -13,8 +13,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |1|2020.12.25|陈安莹<br>施程辉|CodeCMR: Cross-Modal Retrieval For Function-Level Binary Source Code Matching, NIPS 2020<br>Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks, NIPS 2018|
 |2|2021.1.1|陈源<br>邱鹏宇|sFuzz: An Efficient Adaptive Fuzzer for Solidity Smart Contracts, ICSE 2020<br>Practical Traffic Analysis Attacks on Secure Messaging Applications, NDSS 2020|
 |3|2021.1.8|王琴应<br>应燕芸|APEX: A Verified Architecture for Proofs of Execution on Remote Devices under Full Software Compromise, USENIX Security 2020|
-|4|2021.1.15|唐嘉蔚<br>刘丁豪||
-|5|2021.1.22|张耀<br>付冲|A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models, CCS 2020|
+|4|2021.1.15|唐嘉蔚<br>刘丁豪|The Impact of Ad-Blockers on Product Search and Purchase Behavior: A Lab Experiment, USENIX Security 2020<br>MVP: Detecting Vulnerabilities using Patch-Enhanced Vulnerability Signatures, USENIX Security 2020|
+|5|2021.1.22|张耀<br>付冲|Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning, USENIX Security 2020<br>A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models, ACM CCS 2020|
 |6|2021.1.29|马哲<br>向意||
 |7|2021.2.5|付之笑<br>陈越尧||
 |8|2021.2.12|沈鹿嘉<br>甘雨由||

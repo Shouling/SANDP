@@ -15,7 +15,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |3|2021.1.8|王琴应<br>应燕芸|APEX: A Verified Architecture for Proofs of Execution on Remote Devices under Full Software Compromise, USENIX Security 2020|
 |4|2021.1.15|唐嘉蔚<br>刘丁豪|The Impact of Ad-Blockers on Product Search and Purchase Behavior: A Lab Experiment, USENIX Security 2020<br>MVP: Detecting Vulnerabilities using Patch-Enhanced Vulnerability Signatures, USENIX Security 2020|
 |5|2021.1.22|张耀<br>付冲|Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning, USENIX Security 2020<br>A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models, ACM CCS 2020|
-|6|2021.1.29|马哲<br>向意||
+|6|2021.1.29|马哲<br>向意|Fuzzing File Systems via Two-Dimensional Input Space Exploration, S&P 2019|
 |7|2021.2.5|付之笑<br>陈越尧||
 |8|2021.2.12|沈鹿嘉<br>甘雨由||
 |9|2021.2.19|卢令令<br>谢之源||

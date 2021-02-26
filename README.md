@@ -18,18 +18,19 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |6|2021.1.29|马哲<br>向意|Exploring Simple Siamese Representation Learning, Arxiv 2020<br>Fuzzing File Systems via Two-Dimensional Input Space Exploration, IEEE S&P 2019|
 |7|2021.2.5|||
 |8|2021.2.12|||
-|9|2021.2.19|付之笑<br>陈越尧||
-|10|2021.2.26|沈鹿嘉<br>甘雨由||
-|11|2021.3.5|卢令令<br>谢之源||
-|12|2021.3.12|邱鹏宇<br>刘丁豪||
-|13|2021.3.19|马哲<br>唐嘉蔚||
-|14|2021.3.26|付丽嫆<br>梁红||
-|15|2021.4.2|张耀<br>王琴应||
-|16|2021.4.9|陈源<br>向意||
-|17|2021.4.16|应燕芸<br>付之笑||
-|18|2021.4.23|施程辉<br>卢令令||
-|19|2021.4.30|陈越尧<br>沈鹿嘉||
-|20|2021.5.7|甘雨由<br>付冲||
-|21|2021.5.14|马哲<br>梁红||
-|22|2021.5.21|邱鹏宇<br>刘丁豪||
+|9|2021.2.19|付之笑<br>陈越尧|Multi-modal Transformer for Video Retrieval, ECCV 2020<br>AURORA: Statistical Crash Analysis for Automated Root Cause Explanation, USENIX Security 2020|
+|10|2021.2.26|||
+|11|2021.3.5|沈鹿嘉<br>甘雨由||
+|12|2021.3.12|卢令令<br>谢之源||
+|13|2021.3.19|邱鹏宇<br>刘丁豪||
+|14|2021.3.26|马哲<br>唐嘉蔚||
+|15|2021.4.2|付丽嫆<br>梁红||
+|16|2021.4.9|张耀<br>王琴应||
+|17|2021.4.16|陈源<br>向意||
+|18|2021.4.23|应燕芸<br>付之笑||
+|19|2021.4.30|施程辉<br>卢令令||
+|20|2021.5.7|陈越尧<br>沈鹿嘉||
+|21|2021.5.14|甘雨由<br>付冲||
+|22|2021.5.21|马哲<br>梁红||
+|23|2021.5.28|邱鹏宇<br>刘丁豪||
 

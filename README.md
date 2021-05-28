@@ -36,7 +36,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |24|2021.6.4|段宇萱<br>叶童||
 |25|2021.6.11|卢令令<br>沈鹿嘉||
 |26|2021.6.18|付冲<br>侯黎阳||
-|27|2021.6.25|虞楚尔<br>陈安莹||
+|27|2021.6.25|虞楚尔<br>陈安莹|OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary, IEEE S&P 2021<br>|
 |28|2021.7.2|梁红<br>马哲||
 |29|2021.7.9|向意<br>唐嘉蔚||
 |30|2021.7.16|陈源<br>张耀||

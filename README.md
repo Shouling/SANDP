@@ -32,7 +32,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |20|2021.5.7|陈越尧<br>唐嘉蔚|Detecting Kernel Memory Leaks in Specialized Modules with Ownership Reasoning, NDSS 2021<br>Evade Deep Image Retrieval by Stashing Private Images in the Hash Space, CVPR 2020|
 |21|2021.5.14|施程辉<br>付冲|Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment, ACM CCS 2019<br>Composite Backdoor Attack for Deep Neural Network by Mixing Existing Benign Features, ACM CCS 2020|
 |22|2021.5.21|马哲<br>向意|Video Corpus Moment Retrieval with Contrastive Learning, SIGIR 2021<br>SAVIOR: Towards Bug-Driven Hybrid Testing, IEEE S&P 2020|
-|23|2021.5.28|邱鹏宇<br>刘丁豪||
+|23|2021.5.28|邱鹏宇<br>刘丁豪|DeepDyve: Dynamic Verification for Deep Neural Networks, ACM CCS 2020<br>On the Feasibility of Stealthily Introducing Vulnerabilities in Open-Source Software via Hypocrite Commits|
 |24|2021.6.4|段宇萱<br>叶童||
 |25|2021.6.11|卢令令<br>沈鹿嘉||
 |26|2021.6.18|付冲<br>侯黎阳||

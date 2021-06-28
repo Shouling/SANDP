@@ -37,8 +37,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |25|2021.6.11|刘丁豪<br>沈鹿嘉|Understanding and Detecting Disordered Error Handling with Precise Function Pairing, USENIX Security 2021<br>Poisoning the Unlabeled Dataset of Semi-Supervised Learning, arXiv 2021|
 |26|2021.6.18|付冲<br>侯黎阳|You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion, USENIX Security 2021<br>SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback, ACM CCS 2020|
 |27|2021.6.25|虞楚尔<br>段宇萱|PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking, USENIX Security 2021<br>WaveGuard: Understanding and Mitigating Audio Adversarial Examples, USENIX Security 2021|
-|28|2021.7.2|梁红<br>马哲||
-|29|2021.7.9|向意<br>唐嘉蔚||
+|28|2021.7.2|梁红<br>向意||
+|29|2021.7.9|马哲<br>唐嘉蔚||
 |30|2021.7.16|陈源<br>张耀||
 |31|2021.7.23|甘雨由<br>付之笑||
 |32|2021.7.30|邱鹏宇<br>卢令令||

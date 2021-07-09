@@ -38,7 +38,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |26|2021.6.18|付冲<br>侯黎阳|You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion, USENIX Security 2021<br>SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback, ACM CCS 2020|
 |27|2021.6.25|虞楚尔<br>段宇萱|PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking, USENIX Security 2021<br>WaveGuard: Understanding and Mitigating Audio Adversarial Examples, USENIX Security 2021|
 |28|2021.7.2|梁红<br>向意|SLIME: Program-sensitive Energy Allocation for Fuzzing<br>HFL: Hybrid Fuzzing on the Linux Kernel, NDSS 2020|
-|29|2021.7.9|马哲<br>唐嘉蔚||
+|29|2021.7.9|马哲<br>陈越尧|WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training, arXiv 2021<br>Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization, NDSS 2020|
 |30|2021.7.16|陈源<br>张耀||
 |31|2021.7.23|甘雨由<br>付之笑||
 |32|2021.7.30|邱鹏宇<br>卢令令||
@@ -47,7 +47,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |35|2021.8.20|虞楚尔<br>段宇萱||
 |36|2021.8.27|陈源<br>应燕芸||
 |37|2021.9.3|张耀<br>付丽嫆||
-|38|2021.9.10|施程辉<br>陈越尧||
+|38|2021.9.10|施程辉<br>唐嘉蔚||
 |39|2021.9.17|卢令令<br>沈鹿嘉||
 |40|2021.9.24|付冲<br>向意||
 |41|2021.10.1|邱鹏宇<br>刘丁豪||

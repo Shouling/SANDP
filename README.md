@@ -25,7 +25,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |13|2021.3.19|邱鹏宇<br>刘丁豪|Model Watermarking for Image Processing Networks, AAAI 2020<br>Finding Bugs Using Your Own Code: Detecting Functionally-similar yet Inconsistent Code, USENIX Security 2021|
 |14|2021.3.26|马哲<br>沈鹿嘉|Is Space-Time Attention All You Need for Video Understanding?, arXiv 2021<br>Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defenses for Federated Learning, NDSS 2021|
 |15|2021.4.2|刘沛宇<br>梁红|Understanding Worldwide Private Information Collection on Android, NDSS 2021<br>PANGOLIN: Incremental Hybrid Fuzzing with Polyhedral Path Abstraction, IEEE S&P 2020|
-|16|2021.4.9|张耀<br>王琴应|CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples, NDSS 2021<br>Data Privacy in Trigger-Action IoT Systems, , IEEE S&P 2021|
+|16|2021.4.9|张耀<br>王琴应|CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples, NDSS 2021<br>Data Privacy in Trigger-Action IoT Systems, IEEE S&P 2021|
 |17|2021.4.16|陈源<br>梁红|EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts, USENIX Security 2021<br>Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints, NDSS 2019|
 |18|2021.4.23|应燕芸<br>付之笑|Deep learning for in vivo near-infrared imaging, PNAS 2021<br>Multimodal Analytics for Real-world News using Measures of Cross-modal Entity Consistency, ICMR 2020|
 |19|2021.4.30|卢令令<br>甘雨由|Blockene: A High-throughput Blockchain Over Mobile Devices, OSDI 2020<br>Towards Efficient Visual Explanation of Black-Box Neural Network, PREVIEW|
@@ -39,7 +39,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |27|2021.6.25|虞楚尔<br>段宇萱|PatchGuard: A Provably Robust Defense against Adversarial Patches via Small Receptive Fields and Masking, USENIX Security 2021<br>WaveGuard: Understanding and Mitigating Audio Adversarial Examples, USENIX Security 2021|
 |28|2021.7.2|梁红<br>向意|SLIME: Program-sensitive Energy Allocation for Fuzzing<br>HFL: Hybrid Fuzzing on the Linux Kernel, NDSS 2020|
 |29|2021.7.9|马哲<br>陈越尧|WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training, arXiv 2021<br>Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization, NDSS 2020|
-|30|2021.7.16|陈源<br>张耀||
+|30|2021.7.16|陈源<br>张耀|WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning, NDSS 2021<br>Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding, IEEE S&P 2021|
 |31|2021.7.23|甘雨由<br>付之笑||
 |32|2021.7.30|邱鹏宇<br>卢令令||
 |33|2021.8.6|梁红<br>陈安莹||

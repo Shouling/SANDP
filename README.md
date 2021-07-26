@@ -42,7 +42,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |30|2021.7.16|陈源<br>张耀|WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning, NDSS 2021<br>Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding, IEEE S&P 2021|
 |31|2021.7.23|甘雨由<br>付之笑|Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers, USENIX Security 2021<br>Face Forensics in the Wild, CVPR 2021|
 |32|2021.7.30|邱鹏宇<br>刘丁豪||
-|33|2021.8.6|梁红<br>陈安莹||
+|33|2021.8.6|梁红<br>陈安莹|STOCHFUZZ: Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting, IEEE S&P 2021<br>|
 |34|2021.8.13|许嘉诚<br>侯黎阳||
 |35|2021.8.20|虞楚尔<br>段宇萱||
 |36|2021.8.27|陈源<br>付之笑||

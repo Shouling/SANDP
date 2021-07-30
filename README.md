@@ -41,7 +41,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |29|2021.7.9|马哲<br>陈越尧|WenLan: Bridging Vision and Language by Large-Scale Multi-Modal Pre-Training, arXiv 2021<br>Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization, NDSS 2020|
 |30|2021.7.16|陈源<br>张耀|WINNIE : Fuzzing Windows Applications with Harness Synthesis and Fast Cloning, NDSS 2021<br>Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding, IEEE S&P 2021|
 |31|2021.7.23|甘雨由<br>付之笑|Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers, USENIX Security 2021<br>Face Forensics in the Wild, CVPR 2021|
-|32|2021.7.30|邱鹏宇<br>刘丁豪||
+|32|2021.7.30|邱鹏宇<br>卢令令|Improving Password Guessing via Representation Learning, IEEE S&P 2021<br>iQuery: Towards Trustworthy, Scalable Accountability for Blockchain-based IoT Payment System|
 |33|2021.8.6|梁红<br>陈安莹|STOCHFUZZ: Sound and Cost-effective Fuzzing of Stripped Binaries by Incremental and Stochastic Rewriting, IEEE S&P 2021<br>|
 |34|2021.8.13|许嘉诚<br>侯黎阳||
 |35|2021.8.20|虞楚尔<br>段宇萱||
@@ -50,7 +50,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |38|2021.9.10|施程辉<br>唐嘉蔚||
 |39|2021.9.17|卢令令<br>沈鹿嘉||
 |40|2021.9.24|付冲<br>向意||
-|41|2021.10.1|邱鹏宇<br>卢令令||
+|41|2021.10.1|邱鹏宇<br>刘丁豪||
 |42|2021.10.8|马哲<br>王琴应||
 |43|2021.10.15|唐嘉蔚<br>陈安莹||
 |44|2021.10.22|甘雨由<br>付丽嫆||

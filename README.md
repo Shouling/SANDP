@@ -44,7 +44,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |32|2021.7.30|邱鹏宇<br>卢令令|Improving Password Guessing via Representation Learning, IEEE S&P 2021<br>iQuery: Towards Trustworthy, Scalable Accountability for Blockchain-based IoT Payment System|
 |33|2021.8.6|梁红<br>陈安莹|TCP-Fuzz: Detecting Memory and Semantic Bugs in TCP Stacks with Fuzzing, USENIX ATC 2021<br>OSPREY: Recovery of Variable and Data Structure via Probabilistic Analysis for Stripped Binary, IEEE S&P 2021|
 |34|2021.8.13|许嘉诚<br>侯黎阳|Automated Conformance Testing for JavaScript Engines via Deep Compiler Fuzzing, PLDI 2021<br>Industry Practice of Coverage-Guided Enterprise-Level DBMS Fuzzing, ICSE 2021|
-|35|2021.8.20|虞楚尔<br>段宇萱||
+|35|2021.8.20|虞楚尔<br>段宇萱|Poltergeist: Acoustic Adversarial Machine Learning against Cameras and Computer Vision, IEEE S&P 2021<br>Demodalizing Face Recognition with Synthetic Samples, AAAI 2021|
 |36|2021.8.27|陈源<br>付之笑||
 |37|2021.9.3|张耀<br>付丽嫆||
 |38|2021.9.10|施程辉<br>唐嘉蔚||

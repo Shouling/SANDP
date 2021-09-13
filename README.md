@@ -46,8 +46,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |34|2021.8.13|许嘉诚<br>侯黎阳|Automated Conformance Testing for JavaScript Engines via Deep Compiler Fuzzing, PLDI 2021<br>Industry Practice of Coverage-Guided Enterprise-Level DBMS Fuzzing, ICSE 2021|
 |35|2021.8.20|虞楚尔<br>段宇萱|Poltergeist: Acoustic Adversarial Machine Learning against Cameras and Computer Vision, IEEE S&P 2021<br>Demodalizing Face Recognition with Synthetic Samples, AAAI 2021|
 |36|2021.8.27|陈源<br>付之笑|Awakening the Web's Sleeper Agents: Misusing Service Workers for Privacy Leakage, NDSS 2021<br>Multi-attentional Deepfake Detection, 	CVPR 2021|
-|37|2021.9.3|张耀<br>付丽嫆||
-|38|2021.9.10|施程辉<br>唐嘉蔚||
+|37|2021.9.3|张耀<br>付丽嫆|Extracting Training Data from Large Language Models, USENIX Security 2021<br>“It’s the Company, the Government, You and I”: User Perceptions of Responsibility for Smart Home Privacy and Security, USENIX Security 2021|
+|38|2021.9.10|施程辉<br>唐嘉蔚|Leakage of Dataset Properties in Multi-Party Machine Learning, USENIX Security 2021<br>Adversarial Examples for Hamming Space Search, IEEE Trans 2020|
 |39|2021.9.17|卢令令<br>沈鹿嘉||
 |40|2021.9.24|付冲<br>向意||
 |41|2021.10.1|邱鹏宇<br>刘丁豪||

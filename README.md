@@ -49,7 +49,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |37|2021.9.3|张耀<br>付丽嫆|Extracting Training Data from Large Language Models, USENIX Security 2021<br>“It’s the Company, the Government, You and I”: User Perceptions of Responsibility for Smart Home Privacy and Security, USENIX Security 2021|
 |38|2021.9.10|施程辉<br>唐嘉蔚|Leakage of Dataset Properties in Multi-Party Machine Learning, USENIX Security 2021<br>Adversarial Examples for Hamming Space Search, IEEE Trans 2020|
 |39|2021.9.17|卢令令<br>付冲|Dynamic Authenticated Index Structures for Outsourced Databases, SIGMOD 2006<br>Blind Backdoors in Deep Learning Models, arXiv 2020|
-|40|2021.9.24|沈鹿嘉<br>向意||
+|40|2021.9.24|沈鹿嘉<br>向意|Systematic Evaluation of Privacy Risks of Machine Learning Models, USENIX Security 2021<br>Constraint-guided Directed Greybox Fuzzing, USENIX Security 2021|
 |41|2021.10.1|邱鹏宇<br>刘丁豪||
 |42|2021.10.8|马哲<br>王琴应||
 |43|2021.10.15|唐嘉蔚<br>陈安莹||

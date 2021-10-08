@@ -51,8 +51,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |39|2021.9.17|卢令令<br>付冲|Dynamic Authenticated Index Structures for Outsourced Databases, SIGMOD 2006<br>Blind Backdoors in Deep Learning Models, arXiv 2020|
 |40|2021.9.24|沈鹿嘉<br>向意|Systematic Evaluation of Privacy Risks of Machine Learning Models, USENIX Security 2021<br>Constraint-guided Directed Greybox Fuzzing, USENIX Security 2021|
 |41|2021.10.1|邱鹏宇<br>刘丁豪|Subpopulation Data Poisoning Attacks, arXiv 2020<br>Static Detection of Unsafe DMA Accesses in Device Drivers, USENIX Security 2021|
-|42|2021.10.8|马哲<br>王琴应||
-|43|2021.10.15|唐嘉蔚<br>陈安莹||
+|42|2021.10.8|马哲<br>王琴应|Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning, NIPS 2020<br>SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems, IEEE S&P 2020|
+|43|2021.10.15|梁红<br>陈安莹||
 |44|2021.10.22|甘雨由<br>付丽嫆||
 |45|2021.10.29|付之笑<br>叶童||
 |46|2021.11.5|陈源<br>侯黎阳||
@@ -61,7 +61,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |49|2021.11.26|卢令令<br>王琴应||
 |50|2021.12.3|段宇萱<br>陈越尧||
 |51|2021.12.10|沈鹿嘉<br>付冲||
-|52|2021.12.17|梁红<br>陈源||
+|52|2021.12.17|唐嘉蔚<br>陈源||
 |53|2021.12.24|吕晨阳<br>杜天宇||
 |54|2021.12.31|向意<br>马哲||
 

@@ -52,7 +52,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |40|2021.9.24|沈鹿嘉<br>向意|Systematic Evaluation of Privacy Risks of Machine Learning Models, USENIX Security 2021<br>Constraint-guided Directed Greybox Fuzzing, USENIX Security 2021|
 |41|2021.10.1|邱鹏宇<br>刘丁豪|Subpopulation Data Poisoning Attacks, arXiv 2020<br>Static Detection of Unsafe DMA Accesses in Device Drivers, USENIX Security 2021|
 |42|2021.10.8|马哲<br>王琴应|Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning, NIPS 2020<br>SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems, IEEE S&P 2020|
-|43|2021.10.15|梁红<br>陈安莹||
+|43|2021.10.15|梁红<br>陈安莹|Krace: Data Race Fuzzing for Kernel File Systems, IEEE S&P 2020<br>Supply-Chain Vulnerability Elimination via Active Learning & Regeneration, ACM CCS 2021|
 |44|2021.10.22|甘雨由<br>付丽嫆||
 |45|2021.10.29|付之笑<br>叶童||
 |46|2021.11.5|陈源<br>侯黎阳||

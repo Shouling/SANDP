@@ -54,14 +54,37 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |42|2021.10.8|马哲<br>王琴应|Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning, NIPS 2020<br>SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems, IEEE S&P 2020|
 |43|2021.10.15|梁红<br>陈安莹|Krace: Data Race Fuzzing for Kernel File Systems, IEEE S&P 2020<br>Supply-Chain Vulnerability Elimination via Active Learning & Regeneration, ACM CCS 2021|
 |44|2021.10.22|甘雨由<br>付丽嫆||
-|45|2021.10.29|付之笑<br>叶童||
-|46|2021.11.5|陈源<br>侯黎阳||
-|47|2021.11.12|甘雨由<br>张耀||
-|48|2021.11.19|施程辉<br>虞楚尔||
-|49|2021.11.26|卢令令<br>王琴应||
-|50|2021.12.3|段宇萱<br>陈越尧||
-|51|2021.12.10|沈鹿嘉<br>付冲||
-|52|2021.12.17|唐嘉蔚<br>陈源||
-|53|2021.12.24|吕晨阳<br>杜天宇||
-|54|2021.12.31|向意<br>马哲||
 
+## AI Group Meeting
+**Location**：教9
+
+**Time**: Friday 18:00
+||Date|Speaker|Title|
+|---|:---:|:---:|:---:|
+|45|2021.10.29|付之笑||
+|46|2021.11.5|甘雨由||
+|47|2021.11.12|张耀||
+|48|2021.11.19|虞楚尔||
+|49|2021.11.26|施程辉||
+|50|2021.12.3|段宇萱||
+|51|2021.12.10|付冲||
+|52|2021.12.17|沈鹿嘉||
+|53|2021.12.24|杜天宇||
+|54|2021.12.31|马哲||
+
+## System Sec Group Meeting
+**Location**：教9
+
+**Time**: ??? 18:00
+||Date|Speaker|Title|
+|---|:---:|:---:|:---:|
+|45|2021.10.29|叶童||
+|46|2021.11.5|陈源||
+|47|2021.11.12|侯黎阳||
+|48|2021.11.19|卢令令||
+|49|2021.11.26|王琴应||
+|50|2021.12.3|陈越尧||
+|51|2021.12.10|唐嘉蔚||
+|52|2021.12.17|陈源||
+|53|2021.12.24|吕晨阳||
+|54|2021.12.31|向意||

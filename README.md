@@ -55,10 +55,13 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |43|2021.10.15|梁红<br>陈安莹|Krace: Data Race Fuzzing for Kernel File Systems, IEEE S&P 2020<br>Supply-Chain Vulnerability Elimination via Active Learning & Regeneration, ACM CCS 2021|
 |44|2021.10.22|甘雨由<br>付丽嫆||
 
-## AI Group Meeting
+## AI Security Group Meeting
 **Location**：教9
 
 **Time**: Friday 18:00
+
+<div id="ai-sec">
+
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
 |45|2021.10.29|付之笑||
@@ -71,11 +74,16 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |52|2021.12.17|沈鹿嘉||
 |53|2021.12.24|杜天宇||
 |54|2021.12.31|马哲||
+  
+</div>
 
-## System Sec Group Meeting
+## System Security Group Meeting
 **Location**：教9
 
 **Time**: ??? 18:00
+
+<div id="system-sec">
+
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
 |45|2021.10.29|叶童||
@@ -88,3 +96,5 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |52|2021.12.17|陈源||
 |53|2021.12.24|吕晨阳||
 |54|2021.12.31|向意||
+
+</div>

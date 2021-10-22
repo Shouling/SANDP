@@ -53,7 +53,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |41|2021.10.1|邱鹏宇<br>刘丁豪|Subpopulation Data Poisoning Attacks, arXiv 2020<br>Static Detection of Unsafe DMA Accesses in Device Drivers, USENIX Security 2021|
 |42|2021.10.8|马哲<br>王琴应|Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning, NIPS 2020<br>SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems, IEEE S&P 2020|
 |43|2021.10.15|梁红<br>陈安莹|Krace: Data Race Fuzzing for Kernel File Systems, IEEE S&P 2020<br>Supply-Chain Vulnerability Elimination via Active Learning & Regeneration, ACM CCS 2021|
-|44|2021.10.22|甘雨由<br>付丽嫆||
+|44|2021.10.22|甘雨由<br>付丽嫆|Seek-and-Hide: Adversarial Steganography via Deep Reinforcement Learning, TPAMI 2021<br>NA|
 
 ## AI Security Group Meeting
 **Location**：教9
@@ -80,7 +80,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 ## System Security Group Meeting
 **Location**：教9
 
-**Time**: ??? 18:00
+**Time**: Sunday 18:00
 
 <div id="system-sec">
 
@@ -92,7 +92,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |48|2021.11.19|卢令令||
 |49|2021.11.26|王琴应||
 |50|2021.12.3|陈越尧||
-|51|2021.12.10|唐嘉蔚||
+|51|2021.12.10|潘高宁||
 |52|2021.12.17|陈源||
 |53|2021.12.24|吕晨阳||
 |54|2021.12.31|向意||

@@ -56,7 +56,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |44|2021.10.22|甘雨由<br>付丽嫆|Seek-and-Hide: Adversarial Steganography via Deep Reinforcement Learning, TPAMI 2021<br>NA|
 
 ## AI Security Group Meeting
-**Location**：教9
+**Location**：Zetonglou 104
 
 **Time**: Friday 18:00
 
@@ -78,7 +78,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 </div>
 
 ## System Security Group Meeting
-**Location**：教9
+**Location**：Zetonglou 104
 
 **Time**: Sunday 18:00
 

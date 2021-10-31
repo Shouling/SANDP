@@ -64,7 +64,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
-|45|2021.10.29|付之笑||
+|45|2021.10.29|付之笑|Spatiotemporal Inconsistency Learning for DeepFake Video Detection, ACM MM 2021|
 |46|2021.11.05|甘雨由||
 |47|2021.11.12|包晗||
 |48|2021.11.19|虞楚尔||
@@ -86,7 +86,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 
 ||Date|Speaker|Title|
 |---|:---:|:---:|:---:|
-|45|2021.10.31|叶童||
+|45|2021.10.31|叶童|A Lightweight Framework for Function Name Reassignment Based on Larege-Scale Stripped Binaries, ISSTA 2021|
 |46|2021.11.07|陈源||
 |47|2021.11.14|侯黎阳||
 |48|2021.11.21|卢令令||

@@ -65,8 +65,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 ||Date|Speaker|Title|Sharer|
 |---|:---:|:---:|:---:|:---:|
 |45|2021.10.29|付之笑|Spatiotemporal Inconsistency Learning for DeepFake Video Detection, ACM MM 2021|何平&付冲|
-|46|2021.11.05|甘雨由||何平|
-|47|2021.11.12|包晗||付冲|
+|46|2021.11.05|甘雨由|Entangled Watermarks as a Defense against Model Extraction, USENIX Security 2021|何平|
+|47|2021.11.12|包晗|ID-Reveal: Identity-aware DeepFake Video Detection, ICCV 2021|付冲|
 |48|2021.11.19|虞楚尔||甘雨由|
 |49|2021.11.26|杜杨凯||伍一鸣|
 |50|2021.12.03|段宇萱||高向珊|
@@ -91,8 +91,8 @@ total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程
 ||Date|Speaker|Title|Sharer|
 |---|:---:|:---:|:---:|:---:|
 |45|2021.10.31|叶童|A Lightweight Framework for Function Name Reassignment Based on Larege-Scale Stripped Binaries, ISSTA 2021|许嘉诚|
-|46|2021.11.07|陈源||向意|
-|47|2021.11.14|侯黎阳||刘丁豪|
+|46|2021.11.07|陈源|NA|向意|
+|47|2021.11.14|侯黎阳|Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference, ACM CCS 2021|刘丁豪|
 |48|2021.11.21|卢令令||刘沛宇|
 |49|2021.11.28|王琴应||夏亦凡|
 |50|2021.12.05|常博宇||刘昕鹏|

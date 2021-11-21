@@ -68,7 +68,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |46|2021.11.05|甘雨由|Entangled Watermarks as a Defense against Model Extraction, USENIX Security 2021|何平|
 |47|2021.11.12|包晗|ID-Reveal: Identity-aware DeepFake Video Detection, ICCV 2021|付冲|
 |48|2021.11.19|虞楚尔||甘雨由|
-|49|2021.11.26|杜杨凯||伍一鸣|
+|49|2021.11.26|杜杨凯||麻瓯博|
 |50|2021.12.03|段宇萱||高向珊|
 |51|2021.12.10|白熠阳||林瑞潇|
 |52|2021.12.17|沈鹿嘉||施程辉|
@@ -93,7 +93,7 @@ total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程
 |45|2021.10.31|叶童|A Lightweight Framework for Function Name Reassignment Based on Larege-Scale Stripped Binaries, ISSTA 2021|许嘉诚|
 |46|2021.11.07|陈源|NA|向意|
 |47|2021.11.14|侯黎阳|Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference, ACM CCS 2021|刘丁豪|
-|48|2021.11.21|卢令令||刘沛宇|
+|48|2021.11.21|卢令令|Bitcoin: A Peer-to-Peer Electronic Cash System, 2008|刘沛宇|
 |49|2021.11.28|王琴应||夏亦凡|
 |50|2021.12.05|常博宇||刘昕鹏|
 |51|2021.12.12|潘高宁||梁红|

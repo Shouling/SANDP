@@ -94,7 +94,7 @@ total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程
 |46|2021.11.07|陈源|NA|向意|
 |47|2021.11.14|侯黎阳|Snipuzz: Black-box Fuzzing of IoT Firmware via Message Snippet Inference, ACM CCS 2021|刘丁豪|
 |48|2021.11.21|卢令令|Bitcoin: A Peer-to-Peer Electronic Cash System, 2008|刘沛宇|
-|49|2021.11.28|王琴应||夏亦凡|
+|49|2021.11.28|王琴应|SyzVegas: Beating Kernel Fuzzing Odds with Reinforcement Learning, USENIX Security 2021|夏亦凡|
 |50|2021.12.05|常博宇|ARCUS: Symbolic Root Cause Analysis of Exploits in Production Systems, USENIX Security 2021|刘昕鹏|
 |51|2021.12.12|潘高宁||梁红|
 |52|2021.12.19|张凌铭||常博宇|

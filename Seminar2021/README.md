@@ -97,7 +97,7 @@ total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程
 |50|2021.12.05|常博宇|ARCUS: Symbolic Root Cause Analysis of Exploits in Production Systems, USENIX Security 2021|刘昕鹏|
 |51|2021.12.12|潘高宁|HyperFuzzer: An Efficient Hybrid Fuzzer for Virtual CPUs, ACM CCS 2021|梁红|
 |52|2021.12.19|张凌铭|Directed Grey-Box Fuzzing with Provable Path Pruning, IEEE S&P 2022|常博宇|
-|53|2021.12.26|夏亦凡||侯黎阳|
+|53|2021.12.26|夏亦凡|The Use of Likely Invariants as Feedback for Fuzzers, USENIX Security 2021|侯黎阳|
 
 <!--
 pending: '付丽嫆', '刘倩君', '潘高宁', '张凌铭', '陈越尧', '吕晨阳', '叶童', '王琴应', '陈源', '卢令令', '陈安莹'

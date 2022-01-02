@@ -42,8 +42,8 @@ total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程
  
 ||Date|Speaker|Title|Sharer|
 |---|:---:|:---:|:---:|:---:|
-|1|2021.12.26|夏亦凡||侯黎阳|
-|2|2022.01.02|许嘉诚||卢令令|
+|1|2021.12.26|夏亦凡|BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning, IEEE S&P 2022|侯黎阳|
+|2|2022.01.02|许嘉诚|HEALER: Relation Learning Guided Kernel Fuzzing, SOSP 2021|卢令令|
 |3|2022.01.09|叶童||王琴应|
 |4|2022.01.16|刘昕鹏||张凌铭|
 |5|2022.01.23|夏亦凡||潘高宁|

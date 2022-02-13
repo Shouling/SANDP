@@ -16,10 +16,10 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |---|:---:|:---:|:---:|:---:| 
 |1|2021.12.24||||
 |2|2021.12.31|马哲|Learning Segment Similarity and Alignment in Large-Scale Content Based Video Retrieval, MM 2021|付之笑|
-|3|2022.01.07|麻瓯博||杜林康|
-|4|2022.01.14|何平|HopSkipJumpAttack: A Query-Efficient Decision-Based Attack, S&P 2020|包晗|
-|5|2022.01.21|白熠阳||沈鹿嘉|
-|6|2022.02.11|高向珊||杜杨凯|
+|3|2022.01.07|麻瓯博|Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations, arXiv 2020|杜林康|
+|4|2022.01.14|何平|HopSkipJumpAttack: A Query-Efficient Decision-Based Attack, IEEE S&P 2020|包晗|
+|5|2022.01.21|白熠阳|Defense Against Synonym Substitution-based Adversarial Attack via Dirichlet Neighborhood Ensemble, ACL 2021|沈鹿嘉|
+|6|2022.02.11|高向珊|An Empirical Study of Example Forgetting during Deep Neural Network Learning, ICLR 2019|杜杨凯|
 |7|2022.02.18|林瑞潇||甘雨由|
 |8|2022.02.25|付冲||李泽宇|
 |9|2022.03.04|姜毅||刘丰豪|
@@ -45,8 +45,8 @@ total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程
 |1|2021.12.26|夏亦凡|BEACON: Directed Grey-Box Fuzzing with Provable Path Pruning, IEEE S&P 2022|侯黎阳|
 |2|2022.01.02|许嘉诚|HEALER: Relation Learning Guided Kernel Fuzzing, SOSP 2021|卢令令|
 |3|2022.01.09|叶童|Retrieval-Augmented Generation for Code Summarization via Hybrid GNN, ICLR 2021|陈安莹|
-|4|2022.01.16|刘昕鹏||张凌铭|
-|5|2022.01.23|夏亦凡||潘高宁|
+|4|2022.01.16|刘昕鹏|DIANE: Identifying Fuzzing Triggers in Apps to Generate Under-constrained Inputs for IoT Devices, IEEE S&P 2021|张凌铭|
+|5|2022.01.23|夏亦凡|Breaking Through Binaries: Compiler-quality Instrumentation for Better Binary-only Fuzzing, USENIX Security 2021|潘高宁|
 |6|2022.02.13|常博宇|μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware, ICSE 2022|陈源|
 |7|2022.02.20|向意||许嘉诚|
 |8|2022.02.27|张凌铭||刘昕鹏|

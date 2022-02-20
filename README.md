@@ -49,8 +49,8 @@ total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程
 |5|2022.01.23|夏亦凡|Breaking Through Binaries: Compiler-quality Instrumentation for Better Binary-only Fuzzing, USENIX Security 2021|潘高宁|
 |6|2022.02.13|常博宇|μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware, ICSE 2022|陈源|
 |7|2022.02.20|向意||许嘉诚|
-|8|2022.02.27|张凌铭||刘昕鹏|
-|9|2022.03.06|刘丁豪||夏亦凡|
+|8|2022.02.27|刘丁豪||刘昕鹏|
+|9|2022.03.06|张凌铭||夏亦凡|
 |10|2022.03.13|梁红||常博宇|
 
 <!--

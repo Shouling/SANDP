@@ -21,7 +21,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |5|2022.01.21|白熠阳|Defense Against Synonym Substitution-based Adversarial Attack via Dirichlet Neighborhood Ensemble, ACL 2021|沈鹿嘉|
 |6|2022.02.11|高向珊|An Empirical Study of Example Forgetting during Deep Neural Network Learning, ICLR 2019|杜杨凯|
 |7|2022.02.18|林瑞潇||甘雨由|
-|8|2022.02.25|付冲||李泽宇|
+|8|2022.02.25|何平|Bad Characters: Imperceptible NLP Attacks, IEEE S&P 2022|李泽宇|
 |9|2022.03.04|姜毅||刘丰豪|
 |10|2022.03.11|甘雨由||段宇萱|
 

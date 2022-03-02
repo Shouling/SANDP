@@ -22,7 +22,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |6|2022.02.11|高向珊|An Empirical Study of Example Forgetting during Deep Neural Network Learning, ICLR 2019|杜杨凯|
 |7|2022.02.18|林瑞潇|Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning, IEEE S&P 2021|甘雨由|
 |8|2022.02.25|何平|Bad Characters: Imperceptible NLP Attacks, IEEE S&P 2022|李泽宇|
-|9|2022.03.04|姜毅||邱鹏宇|
+|9|2022.03.04|姜毅|BERT-Attack: Adversarial Attack Against BERT Using BERT, EMNLP 2020|邱鹏宇|
 |10|2022.03.11|甘雨由||段宇萱|
 
 

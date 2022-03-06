@@ -26,6 +26,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |10|2022.03.11|甘雨由||段宇萱|
 
 
+
 <!--
 pending: '包晗', '张云若', '邱鹏宇', '马哲', '白熠阳', '杜天宇', '张曜', '姜毅', '段宇萱', '虞楚尔', '杜林康', '王博', '沈鹿嘉', '杜杨凯', '付冲', '王粒', '李泽宇'
 total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程辉', '唐嘉蔚', '付之笑', '包晗', '张云若', '何平', '邱鹏宇', '马哲', '白熠阳', '杜天宇', '张曜', '姜毅', '段宇萱', '虞楚尔', '杜林康', '王博', '沈鹿嘉', '杜杨凯', '付冲', '王粒']
@@ -49,9 +50,10 @@ total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程
 |5|2022.01.23|夏亦凡|Breaking Through Binaries: Compiler-quality Instrumentation for Better Binary-only Fuzzing, USENIX Security 2021|潘高宁|
 |6|2022.02.13|常博宇|μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware, ICSE 2022|陈源|
 |7|2022.02.20|向意|ParmeSan: Sanitizer-guided Greybox Fuzzing, USENIX Security 2020|许嘉诚|
-|8|2022.02.27|刘丁豪||刘昕鹏|
-|9|2022.03.06|张凌铭||夏亦凡|
+|8|2022.02.27|刘丁豪|Detecting Kernel Refcount Bugs with Two-Dimensional Consistency Checking, USENIX Security 2021|刘昕鹏|
+|9|2022.03.06|张凌铭|Regression Greybox Fuzzing, ACM CCS 2021|夏亦凡|
 |10|2022.03.13|梁红||常博宇|
+
 
 <!--
 pending: '付丽嫆', '刘倩君', '潘高宁', '张凌铭', '陈越尧', '吕晨阳', '叶童', '王琴应', '陈源', '卢令令', '陈安莹'

@@ -58,8 +58,8 @@ total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程
 |7|2022.02.20|向意|ParmeSan: Sanitizer-guided Greybox Fuzzing, USENIX Security 2020|许嘉诚|
 |8|2022.02.27|刘丁豪|Detecting Kernel Refcount Bugs with Two-Dimensional Consistency Checking, USENIX Security 2021|刘昕鹏|
 |9|2022.03.06|张凌铭|Regression Greybox Fuzzing, ACM CCS 2021|夏亦凡|
-|10|2022.03.13|梁红||常博宇|
-|11|2022.03.20|许嘉诚||王琴应|
+|10|2022.03.13|梁红|SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs in Linux kernel, USENIX Security 2022|常博宇|
+|11|2022.03.20|许嘉诚|Demystifying the Dependency Challenge in Kernel Fuzzing, ICSE 2022|王琴应|
 |12|2022.03.27|侯黎阳||向意|
 |13|2022.04.03|夏亦凡||梁红|
 |14|2022.04.10|刘昕鹏||刘丁豪|

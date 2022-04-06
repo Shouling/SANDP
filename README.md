@@ -61,7 +61,7 @@ total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程
 |10|2022.03.13|梁红|SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs in Linux kernel, USENIX Security 2022|常博宇|
 |11|2022.03.20|许嘉诚|Demystifying the Dependency Challenge in Kernel Fuzzing, ICSE 2022|王琴应|
 |12|2022.03.27|侯黎阳|ICS3Fuzzer: A Framework for Discovering Protocol Implementation Bugs in ICS Supervisory Software by Fuzzing, ACSAC 2021|向意|
-|13|2022.04.03|夏亦凡||梁红|
+|13|2022.04.03|夏亦凡|Semantic-Informed Driver Fuzzing Without Both the Hardware Devices and the Emulators, NDSS 2022|梁红|
 |14|2022.04.10|刘昕鹏||刘丁豪|
 |15|2022.04.17|陈源||许嘉诚|
 |16|2022.04.24|叶童||陈安莹|

@@ -27,7 +27,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |11|2022.03.18|谢廷浩||马哲|
 |12|2022.03.25|付之笑||曾睿|
 |13|2022.04.01|林瑞潇|Hierarchical Personalized Federated Learning for User Modeling, WWW 2021|谢廷浩|
-|14|2022.04.08|邱鹏宇||付冲|
+|14|2022.04.08|邱鹏宇|DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems, USENIX Security 22|付冲|
 |15|2022.04.15|杜杨凯||麻瓯博|
 |16|2022.04.22|包晗||白熠阳|
 |17|2022.04.29|李泽宇||姜毅|

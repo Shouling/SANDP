@@ -29,7 +29,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |13|2022.04.01|林瑞潇|Hierarchical Personalized Federated Learning for User Modeling, WWW 2021|谢廷浩|
 |14|2022.04.08|邱鹏宇|DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems, USENIX Security 2022|付冲|
 |15|2022.04.15|杜杨凯|Contrastive Code Representation Learning, EMNLP 2021|麻瓯博|
-|16|2022.04.22|包晗||白熠阳|
+|16|2022.04.22|包晗|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation, CVPR 2021|白熠阳|
 |17|2022.04.29|李泽宇||姜毅|
 |18|2022.05.06|沈鹿嘉||何平|
 |19|2022.05.13|段宇萱||麻瓯博|
@@ -41,8 +41,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 
 
 <!--
-pending: '施程辉', 
-except: '张曜', '王博', '杜林康', '虞楚尔', '杜天宇', '王粒', '伍一鸣', '张云若', '高向珊', '唐嘉蔚',
+pending: 
+except: '张曜', '王博', '杜林康', '虞楚尔', '杜天宇', '王粒', '伍一鸣', '张云若', '高向珊', '唐嘉蔚', '施程辉', 
 in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '邱鹏宇', '马哲', '白熠阳', '姜毅', '段宇萱', '沈鹿嘉', '杜杨凯', '付冲', '麻瓯博', ]
 
 -->

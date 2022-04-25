@@ -25,7 +25,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |9|2022.03.04|姜毅|BERT-Attack: Adversarial Attack Against BERT Using BERT, EMNLP 2020|邱鹏宇|
 |10|2022.03.11|甘雨由||段宇萱|
 |11|2022.03.18|谢廷浩||马哲|
-|12|2022.03.25|付之笑||曾睿|
+|12|2022.03.25|付之笑|SelfReg: Self-supervised Contrastive Regularization for Domain Generalization, ICCV 2021|曾睿|
 |13|2022.04.01|林瑞潇|Hierarchical Personalized Federated Learning for User Modeling, WWW 2021|谢廷浩|
 |14|2022.04.08|邱鹏宇|DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems, USENIX Security 2022|付冲|
 |15|2022.04.15|杜杨凯|Contrastive Code Representation Learning, EMNLP 2021|麻瓯博|

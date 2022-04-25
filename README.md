@@ -73,7 +73,7 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |13|2022.04.03|夏亦凡|Semantic-Informed Driver Fuzzing Without Both the Hardware Devices and the Emulators, NDSS 2022|梁红|
 |14|2022.04.10|刘昕鹏|PATA: Fuzzing with Path Aware Taint Analysis, IEEE S&P 2022|刘丁豪|
 |15|2022.04.17|陈源|As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service, NDSS 2022|许嘉诚|
-|16|2022.04.24|叶童||陈安莹|
+|16|2022.04.24|叶童|Retrieval-based neural source code summarization, ICSE 2020|陈安莹|
 |17|2022.05.01|常博宇||张凌铭|
 |18|2022.05.08|刘丁豪||陈源|
 |19|2022.05.15|王琴应||吕晨阳|

@@ -24,18 +24,27 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |8|2022.02.25|何平|Bad Characters: Imperceptible NLP Attacks, IEEE S&P 2022|李泽宇|
 |9|2022.03.04|姜毅|BERT-Attack: Adversarial Attack Against BERT Using BERT, EMNLP 2020|邱鹏宇|
 |10|2022.03.11|甘雨由||段宇萱|
-|11|2022.03.18|谢廷浩||马哲|
-|12|2022.03.25|付之笑||曾睿|
+|11|2022.03.18|谢廷浩|Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks, arXiv 2021|马哲|
+|12|2022.03.25|付之笑|SelfReg: Self-supervised Contrastive Regularization for Domain Generalization, ICCV 2021|曾睿|
 |13|2022.04.01|林瑞潇|Hierarchical Personalized Federated Learning for User Modeling, WWW 2021|谢廷浩|
-|14|2022.04.08|邱鹏宇||付冲|
-|15|2022.04.15|杜杨凯||麻瓯博|
-|16|2022.04.22|包晗||白熠阳|
+|14|2022.04.08|邱鹏宇|DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems, USENIX Security 2022|付冲|
+|15|2022.04.15|杜杨凯|Contrastive Code Representation Learning, EMNLP 2021|麻瓯博|
+|16|2022.04.22|包晗|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation, CVPR 2021|白熠阳|
 |17|2022.04.29|李泽宇||姜毅|
+|18|2022.05.06|沈鹿嘉||何平|
+|19|2022.05.13|段宇萱||麻瓯博|
+|20|2022.05.20|付冲||甘雨由|
+|21|2022.05.27|姜毅||付之笑|
+|22|2022.06.03|马哲||林瑞潇|
+|23|2022.06.10|杜杨凯||李泽宇|
+|24|2022.06.17|虞楚尔||邱鹏宇|
 
 
 <!--
-pending: '包晗', '张云若', '邱鹏宇', '马哲', '白熠阳', '杜天宇', '张曜', '姜毅', '段宇萱', '虞楚尔', '杜林康', '王博', '沈鹿嘉', '杜杨凯', '付冲', '王粒', '李泽宇'
-total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程辉', '唐嘉蔚', '付之笑', '包晗', '张云若', '何平', '邱鹏宇', '马哲', '白熠阳', '杜天宇', '张曜', '姜毅', '段宇萱', '虞楚尔', '杜林康', '王博', '沈鹿嘉', '杜杨凯', '付冲', '王粒']
+pending: 
+except: '张曜', '王博', '杜林康', '虞楚尔', '杜天宇', '王粒', '伍一鸣', '张云若', '高向珊', '唐嘉蔚', '施程辉', 
+in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '邱鹏宇', '马哲', '白熠阳', '姜毅', '段宇萱', '沈鹿嘉', '杜杨凯', '付冲', '麻瓯博', ]
+
 -->
 </div>
 
@@ -62,14 +71,22 @@ total: ['李泽宇', '甘雨由', '伍一鸣', '高向珊', '林瑞潇', '施程
 |11|2022.03.20|许嘉诚|Demystifying the Dependency Challenge in Kernel Fuzzing, ICSE 2022|王琴应|
 |12|2022.03.27|侯黎阳|ICS3Fuzzer: A Framework for Discovering Protocol Implementation Bugs in ICS Supervisory Software by Fuzzing, ACSAC 2021|向意|
 |13|2022.04.03|夏亦凡|Semantic-Informed Driver Fuzzing Without Both the Hardware Devices and the Emulators, NDSS 2022|梁红|
-|14|2022.04.10|刘昕鹏||刘丁豪|
-|15|2022.04.17|陈源||许嘉诚|
-|16|2022.04.24|叶童||陈安莹|
+|14|2022.04.10|刘昕鹏|PATA: Fuzzing with Path Aware Taint Analysis, IEEE S&P 2022|刘丁豪|
+|15|2022.04.17|陈源|As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service, NDSS 2022|许嘉诚|
+|16|2022.04.24|叶童|Retrieval-based neural source code summarization, ICSE 2020|陈安莹|
 |17|2022.05.01|常博宇||张凌铭|
+|18|2022.05.08|刘丁豪||陈源|
+|19|2022.05.15|王琴应||吕晨阳|
+|20|2022.05.22|陈安莹||向意|
+|21|2022.05.29|梁红||刘沛宇|
+|22|2022.06.05|卢令令||刘昕鹏|
+|23|2022.06.12|张凌铭||夏亦凡|
+|24|2022.06.19|叶童||常博宇|
 
 <!--
-pending: '付丽嫆', '刘倩君', '潘高宁', '张凌铭', '陈越尧', '吕晨阳', '叶童', '王琴应', '陈源', '卢令令', '陈安莹'
-total: ['刘丁豪', '许嘉诚', '刘沛宇', '夏亦凡', '刘昕鹏', '梁红', '常博宇', '侯黎阳', '向意', '付丽嫆', '刘倩君', '潘高宁', '张凌铭', '陈越尧', '吕晨阳', '陈源', '叶童', '王琴应', '卢令令', '陈安莹']
+pending: '潘高宁'
+except: '付丽嫆', '刘倩君', '陈越尧', '吕晨阳', '刘沛宇',
+in: ['刘丁豪', '许嘉诚', '夏亦凡', '刘昕鹏', '梁红', '常博宇', '侯黎阳', '向意', '张凌铭', '陈源', '叶童', '王琴应', '卢令令', '陈安莹']
 -->
   
 </div>

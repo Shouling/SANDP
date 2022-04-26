@@ -32,12 +32,12 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |16|2022.04.22|包晗|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation, CVPR 2021|白熠阳|
 |17|2022.04.29|李泽宇||姜毅|
 |18|2022.05.06|沈鹿嘉||何平|
-|19|2022.05.13|段宇萱||麻瓯博|
+|19|2022.05.13|段宇萱||邱鹏宇|
 |20|2022.05.20|付冲||甘雨由|
 |21|2022.05.27|姜毅||付之笑|
 |22|2022.06.03|马哲||林瑞潇|
-|23|2022.06.10|杜杨凯||李泽宇|
-|24|2022.06.17|虞楚尔||邱鹏宇|
+|23|2022.06.10|麻瓯博||李泽宇|
+|24|2022.06.17|虞楚尔||杜杨凯|
 
 
 <!--

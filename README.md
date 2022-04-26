@@ -16,7 +16,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |---|:---:|:---:|:---:|:---:| 
 |1|2021.12.24||||
 |2|2021.12.31|马哲|Learning Segment Similarity and Alignment in Large-Scale Content Based Video Retrieval, MM 2021|付之笑|
-|3|2022.01.07|麻瓯博|Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations, arXiv 2020|杜林康|
+|3|2022.01.07|麻瓯勃|Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations, arXiv 2020|杜林康|
 |4|2022.01.14|何平|HopSkipJumpAttack: A Query-Efficient Decision-Based Attack, IEEE S&P 2020|包晗|
 |5|2022.01.21|白熠阳|Defense Against Synonym Substitution-based Adversarial Attack via Dirichlet Neighborhood Ensemble, ACL 2021|沈鹿嘉|
 |6|2022.02.11|高向珊|An Empirical Study of Example Forgetting during Deep Neural Network Learning, ICLR 2019|杜杨凯|
@@ -28,7 +28,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |12|2022.03.25|付之笑|SelfReg: Self-supervised Contrastive Regularization for Domain Generalization, ICCV 2021|曾睿|
 |13|2022.04.01|林瑞潇|Hierarchical Personalized Federated Learning for User Modeling, WWW 2021|谢廷浩|
 |14|2022.04.08|邱鹏宇|DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems, USENIX Security 2022|付冲|
-|15|2022.04.15|杜杨凯|Contrastive Code Representation Learning, EMNLP 2021|麻瓯博|
+|15|2022.04.15|杜杨凯|Contrastive Code Representation Learning, EMNLP 2021|麻瓯勃|
 |16|2022.04.22|包晗|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation, CVPR 2021|白熠阳|
 |17|2022.04.29|李泽宇||姜毅|
 |18|2022.05.06|沈鹿嘉||何平|
@@ -36,7 +36,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |20|2022.05.20|付冲||甘雨由|
 |21|2022.05.27|姜毅||付之笑|
 |22|2022.06.03|马哲||林瑞潇|
-|23|2022.06.10|麻瓯博||李泽宇|
+|23|2022.06.10|麻瓯勃||李泽宇|
 |24|2022.06.17|虞楚尔||杜杨凯|
 
 

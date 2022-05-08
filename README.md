@@ -31,7 +31,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |15|2022.04.15|杜杨凯|Contrastive Code Representation Learning, EMNLP 2021|麻瓯勃|
 |16|2022.04.22|包晗|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation, CVPR 2021|白熠阳|
 |17|2022.04.29|李泽宇||姜毅|
-|18|2022.05.06|沈鹿嘉||何平|
+|18|2022.05.06|沈鹿嘉|PICCOLO : Exposing Complex Backdoors in NLP Transformer Models, IEEE S&P 2022|何平|
 |19|2022.05.13|段宇萱||邱鹏宇|
 |20|2022.05.20|付冲||甘雨由|
 |21|2022.05.27|姜毅||付之笑|

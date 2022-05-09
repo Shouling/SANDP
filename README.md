@@ -75,7 +75,7 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |15|2022.04.17|陈源|As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service, NDSS 2022|许嘉诚|
 |16|2022.04.24|叶童|Retrieval-based neural source code summarization, ICSE 2020|陈安莹|
 |17|2022.05.01|常博宇|Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis, IEEE S&P 2022|张凌铭|
-|18|2022.05.08|刘丁豪||陈源|
+|18|2022.05.08|刘丁豪|Undo Workarounds for Kernel Bugs, USENIX Security 2021|陈源|
 |19|2022.05.15|王琴应||吕晨阳|
 |20|2022.05.22|陈安莹||向意|
 |21|2022.05.29|梁红||刘沛宇|

@@ -31,13 +31,13 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |15|2022.04.15|杜杨凯|Contrastive Code Representation Learning, EMNLP 2021|麻瓯勃|
 |16|2022.04.22|包晗|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation, CVPR 2021|白熠阳|
 |17|2022.04.29|李泽宇||姜毅|
-|18|2022.05.06|沈鹿嘉|PICCOLO : Exposing Complex Backdoors in NLP Transformer Models, IEEE S&P 2022|何平|
-|19|2022.05.13|段宇萱||邱鹏宇|
-|20|2022.05.20|付冲||甘雨由|
-|21|2022.05.27|姜毅||付之笑|
-|22|2022.06.03|马哲||林瑞潇|
-|23|2022.06.10|麻瓯勃||李泽宇|
-|24|2022.06.17|虞楚尔||杜杨凯|
+|18|2022.05.06|沈鹿嘉|PICCOLO : Exposing Complex Backdoors in NLP Transformer Models, IEEE S&P 2022|姜毅|
+|19|2022.05.13|段宇萱||何平|
+|20|2022.05.20|付冲||邱鹏宇|
+|21|2022.05.27|姜毅||甘雨由|
+|22|2022.06.03|马哲||付之笑|
+|23|2022.06.10|麻瓯勃||林瑞潇|
+|24|2022.06.17|虞楚尔||李泽宇|
 
 
 <!--

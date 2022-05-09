@@ -30,7 +30,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |14|2022.04.08|邱鹏宇|DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems, USENIX Security 2022|付冲|
 |15|2022.04.15|杜杨凯|Contrastive Code Representation Learning, EMNLP 2021|麻瓯勃|
 |16|2022.04.22|包晗|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation, CVPR 2021|白熠阳|
-|17|2022.04.29|李泽宇||姜毅|
+|17|2022.04.29|李泽宇|MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation, CVPR 2021|姜毅|
 |18|2022.05.06|沈鹿嘉|PICCOLO : Exposing Complex Backdoors in NLP Transformer Models, IEEE S&P 2022|姜毅|
 |19|2022.05.13|段宇萱||何平|
 |20|2022.05.20|付冲||邱鹏宇|

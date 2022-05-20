@@ -33,7 +33,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |17|2022.04.29|李泽宇|MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation, CVPR 2021|姜毅|
 |18|2022.05.06|沈鹿嘉|PICCOLO : Exposing Complex Backdoors in NLP Transformer Models, IEEE S&P 2022|姜毅|
 |19|2022.05.13|段宇萱||何平|
-|20|2022.05.20|付冲|Pass off fish eyes for pearls: attacking model selection of pre-trained models|邱鹏宇|
+|20|2022.05.20|付冲|Pass off fish eyes for pearls: attacking model selection of pre-trained models, ACL 2022|邱鹏宇|
 |21|2022.05.27|姜毅||甘雨由|
 |22|2022.06.03|马哲||付之笑|
 |23|2022.06.10|麻瓯勃||林瑞潇|

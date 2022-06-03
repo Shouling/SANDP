@@ -23,21 +23,21 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |7|2022.02.18|林瑞潇|Adversary Instantiation: Lower Bounds for Differentially Private Machine Learning, IEEE S&P 2021|甘雨由|
 |8|2022.02.25|何平|Bad Characters: Imperceptible NLP Attacks, IEEE S&P 2022|李泽宇|
 |9|2022.03.04|姜毅|BERT-Attack: Adversarial Attack Against BERT Using BERT, EMNLP 2020|邱鹏宇|
-|10|2022.03.11|甘雨由||段宇萱|
+|10|2022.03.11|甘雨由|/|段宇萱|
 |11|2022.03.18|谢廷浩|Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks, arXiv 2021|马哲|
 |12|2022.03.25|付之笑|SelfReg: Self-supervised Contrastive Regularization for Domain Generalization, ICCV 2021|曾睿|
 |13|2022.04.01|林瑞潇|Hierarchical Personalized Federated Learning for User Modeling, WWW 2021|谢廷浩|
 |14|2022.04.08|邱鹏宇|DoubleStar: Long-Range Attack Towards Depth Estimation based Obstacle Avoidance in Autonomous Systems, USENIX Security 2022|付冲|
 |15|2022.04.15|杜杨凯|Contrastive Code Representation Learning, EMNLP 2021|麻瓯勃|
 |16|2022.04.22|包晗|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation, CVPR 2021|白熠阳|
-|17|2022.04.29|李泽宇||姜毅|
-|18|2022.05.06|沈鹿嘉||何平|
-|19|2022.05.13|段宇萱||邱鹏宇|
-|20|2022.05.20|付冲||甘雨由|
-|21|2022.05.27|姜毅||付之笑|
-|22|2022.06.03|马哲||林瑞潇|
-|23|2022.06.10|麻瓯勃||李泽宇|
-|24|2022.06.17|虞楚尔||杜杨凯|
+|17|2022.04.29|李泽宇|MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation, CVPR 2021|姜毅|
+|18|2022.05.06|沈鹿嘉|PICCOLO : Exposing Complex Backdoors in NLP Transformer Models, IEEE S&P 2022|姜毅|
+|19|2022.05.13|段宇萱|Protecting Celebrities from DeepFake with Identity Consistency Transformer, CVPR 2022|何平|
+|20|2022.05.20|付冲|Pass off Fish Eyes for Pearls: Attacking Model Selection of Pre-trained Models, ACL 2022|邱鹏宇|
+|21|2022.05.27|姜毅||甘雨由|
+|22|2022.06.03|马哲||付之笑|
+|23|2022.06.10|麻瓯勃||林瑞潇|
+|24|2022.06.17|虞楚尔||李泽宇|
 
 
 <!--
@@ -74,9 +74,9 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |14|2022.04.10|刘昕鹏|PATA: Fuzzing with Path Aware Taint Analysis, IEEE S&P 2022|刘丁豪|
 |15|2022.04.17|陈源|As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service, NDSS 2022|许嘉诚|
 |16|2022.04.24|叶童|Retrieval-based neural source code summarization, ICSE 2020|陈安莹|
-|17|2022.05.01|常博宇||张凌铭|
-|18|2022.05.08|刘丁豪||陈源|
-|19|2022.05.15|王琴应||吕晨阳|
+|17|2022.05.01|常博宇|Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis, IEEE S&P 2022|张凌铭|
+|18|2022.05.08|刘丁豪|Undo Workarounds for Kernel Bugs, USENIX Security 2021|陈源|
+|19|2022.05.15|王琴应|FirmWire: Transparent Dynamic Analysis for Cellular Baseband Firmware, NDSS 2022|吕晨阳|
 |20|2022.05.22|陈安莹||向意|
 |21|2022.05.29|梁红||刘沛宇|
 |22|2022.06.05|卢令令||刘昕鹏|

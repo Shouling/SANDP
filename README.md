@@ -77,7 +77,7 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |17|2022.05.01|常博宇|Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis, IEEE S&P 2022|张凌铭|
 |18|2022.05.08|刘丁豪|Undo Workarounds for Kernel Bugs, USENIX Security 2021|陈源|
 |19|2022.05.15|王琴应|FirmWire: Transparent Dynamic Analysis for Cellular Baseband Firmware, NDSS 2022|吕晨阳|
-|20|2022.05.22|陈安莹||向意|
+|20|2022.05.22|陈安莹|Scalable Validation of Binary Lifters, PLDI 2020|向意|
 |21|2022.05.29|梁红||刘沛宇|
 |22|2022.06.05|卢令令||刘昕鹏|
 |23|2022.06.12|张凌铭||夏亦凡|

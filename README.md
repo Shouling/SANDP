@@ -35,7 +35,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |19|2022.05.13|段宇萱|Protecting Celebrities from DeepFake with Identity Consistency Transformer, CVPR 2022|何平|
 |20|2022.05.20|付冲|Pass off Fish Eyes for Pearls: Attacking Model Selection of Pre-trained Models, ACL 2022|邱鹏宇|
 |21|2022.05.27|姜毅|Compromised or Attacker-Owned: A Large Scale Classification and Study of Hosting Domains of Malicious URLs, USENIX Security 2021|甘雨由|
-|22|2022.06.03|马哲||付之笑|
+|22|2022.06.03|马哲|Barlow Twins: Self-Supervised Learning via Redundancy Reduction, ICML 2021|付之笑|
 |23|2022.06.10|麻瓯勃|Adversarial Policy Learning in Two-player Competitive Games, ICML 2021|林瑞潇|
 |24|2022.06.17|虞楚尔||李泽宇|
 

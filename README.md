@@ -34,16 +34,21 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |18|2022.05.06|沈鹿嘉|PICCOLO : Exposing Complex Backdoors in NLP Transformer Models, IEEE S&P 2022|姜毅|
 |19|2022.05.13|段宇萱|Protecting Celebrities from DeepFake with Identity Consistency Transformer, CVPR 2022|何平|
 |20|2022.05.20|付冲|Pass off Fish Eyes for Pearls: Attacking Model Selection of Pre-trained Models, ACL 2022|邱鹏宇|
-|21|2022.05.27|姜毅||甘雨由|
-|22|2022.06.03|马哲||付之笑|
-|23|2022.06.10|麻瓯勃||林瑞潇|
+|21|2022.05.27|姜毅|Compromised or Attacker-Owned: A Large Scale Classification and Study of Hosting Domains of Malicious URLs, USENIX Security 2021|甘雨由|
+|22|2022.06.03|马哲|Barlow Twins: Self-Supervised Learning via Redundancy Reduction, ICML 2021|付之笑|
+|23|2022.06.10|麻瓯勃|Adversarial Policy Learning in Two-player Competitive Games, ICML 2021|林瑞潇|
 |24|2022.06.17|虞楚尔||李泽宇|
-
+|25|2022.06.24|甘雨由||沈鹿嘉|
+|26|2022.07.01|付之笑||包晗|
+|27|2022.07.08|何平||杜杨凯|
+|28|2022.07.15|姜毅||付冲|
+|29|2022.07.22|林瑞潇||马哲|
+|30|2022.07.29|李泽宇||麻瓯勃|
 
 <!--
 pending: 
 except: '张曜', '王博', '杜林康', '虞楚尔', '杜天宇', '王粒', '伍一鸣', '张云若', '高向珊', '唐嘉蔚', '施程辉', 
-in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '邱鹏宇', '马哲', '白熠阳', '姜毅', '段宇萱', '沈鹿嘉', '杜杨凯', '付冲', '麻瓯博', ]
+in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '邱鹏宇', '马哲', '白熠阳', '姜毅', '段宇萱', '沈鹿嘉', '杜杨凯', '付冲', '麻瓯博', '叶童']
 
 -->
 </div>
@@ -77,16 +82,22 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |17|2022.05.01|常博宇|Effective Seed Scheduling for Fuzzing with Graph Centrality Analysis, IEEE S&P 2022|张凌铭|
 |18|2022.05.08|刘丁豪|Undo Workarounds for Kernel Bugs, USENIX Security 2021|陈源|
 |19|2022.05.15|王琴应|FirmWire: Transparent Dynamic Analysis for Cellular Baseband Firmware, NDSS 2022|吕晨阳|
-|20|2022.05.22|陈安莹||向意|
-|21|2022.05.29|梁红||刘沛宇|
-|22|2022.06.05|卢令令||刘昕鹏|
-|23|2022.06.12|张凌铭||夏亦凡|
-|24|2022.06.19|叶童||常博宇|
+|20|2022.05.22|陈安莹|Scalable Validation of Binary Lifters, PLDI 2020|向意|
+|21|2022.05.29|梁红|MobFuzz: Adaptive Multi-objective Optimization in Gray-box Fuzzing, NDSS 2022||
+|22|2022.06.05|卢令令|ImageProof: Enabling Authentication for Large-Scale Image Retrieval, ICDE 2019|刘昕鹏|
+|23|2022.06.12|张凌铭|InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing, ASE 2021|夏亦凡|
+|24|2022.06.19|向意||常博宇|
+|25|2022.06.26|许嘉诚||侯黎阳|
+|26|2022.07.03|刘丁豪||陈安莹|
+|27|2022.07.10|刘昕鹏||王琴应|
+|28|2022.07.17|陈源||刘沛宇|
+|29|2022.07.24|常博宇||梁红|
+|30|2022.07.31|向意||张凌铭|  
 
 <!--
 pending: '潘高宁'
 except: '付丽嫆', '刘倩君', '陈越尧', '吕晨阳', '刘沛宇',
-in: ['刘丁豪', '许嘉诚', '夏亦凡', '刘昕鹏', '梁红', '常博宇', '侯黎阳', '向意', '张凌铭', '陈源', '叶童', '王琴应', '卢令令', '陈安莹']
+in: ['刘丁豪', '许嘉诚', '夏亦凡', '刘昕鹏', '梁红', '常博宇', '侯黎阳', '向意', '张凌铭', '陈源', '王琴应', '卢令令', '陈安莹']
 -->
   
 </div>

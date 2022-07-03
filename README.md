@@ -87,7 +87,7 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |22|2022.06.05|卢令令|ImageProof: Enabling Authentication for Large-Scale Image Retrieval, ICDE 2019|刘昕鹏|
 |23|2022.06.12|张凌铭|InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing, ASE 2021|夏亦凡|
 |24|2022.06.19|向意|WindRanger: A Directed Greybox Fuzzer driven by Deviation Basic Blocks, ICSE 2022|常博宇|
-|25|2022.06.26|许嘉诚||王琴应|
+|25|2022.06.26|许嘉诚|SyzGen: Automated Generation of Syscall Specification of Closed-Source macOS Drivers, ACM CCS 2021|王琴应|
 |26|2022.07.03|刘丁豪||陈安莹|
 |27|2022.07.10|刘昕鹏||侯黎阳|
 |28|2022.07.17|陈源||刘沛宇|

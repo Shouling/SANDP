@@ -37,7 +37,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |21|2022.05.27|姜毅|Compromised or Attacker-Owned: A Large Scale Classification and Study of Hosting Domains of Malicious URLs, USENIX Security 2021|甘雨由|
 |22|2022.06.03|马哲|Barlow Twins: Self-Supervised Learning via Redundancy Reduction, ICML 2021|付之笑|
 |23|2022.06.10|麻瓯勃|Adversarial Policy Learning in Two-player Competitive Games, ICML 2021|林瑞潇|
-|24|2022.06.17|虞楚尔||李泽宇|
+|24|2022.06.17|虞楚尔|Detecting Deepfakes with Self-Blended Images, CVPR 20222|李泽宇|
 |25|2022.06.24|甘雨由||沈鹿嘉|
 |26|2022.07.01|付之笑||包晗|
 |27|2022.07.08|何平||杜杨凯|

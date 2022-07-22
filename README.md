@@ -39,7 +39,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |23|2022.06.10|麻瓯勃|Adversarial Policy Learning in Two-player Competitive Games, ICML 2021|林瑞潇|
 |24|2022.06.17|虞楚尔|Detecting Deepfakes with Self-Blended Images, CVPR 20222|李泽宇|
 |25|2022.06.24|甘雨由||沈鹿嘉|
-|26|2022.07.01|付之笑||包晗|
+|26|2022.07.01|付之笑|Few-Shot Head Swapping in the Wild, CVPR2022|包晗|
 |27|2022.07.08|何平||杜杨凯|
 |28|2022.07.15|姜毅||付冲|
 |29|2022.07.22|林瑞潇||马哲|

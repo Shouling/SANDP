@@ -91,7 +91,7 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |26|2022.07.03|刘丁豪|Precise and Scalable Detection of Use-after-Compacting-Garbage-Collection Bugs, USENIX Security 2021|陈安莹|
 |27|2022.07.10|刘昕鹏||侯黎阳|
 |28|2022.07.17|陈源||刘沛宇|
-|29|2022.07.24|常博宇||梁红|
+|29|2022.07.24|常博宇|JIGSAW: Efficient and Scalable Path Constraints Fuzzing, IEEE S&P 2022|梁红|
 |30|2022.07.31|向意||张凌铭|  
 
 <!--

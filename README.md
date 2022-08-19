@@ -45,8 +45,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |29|2022.07.22|林瑞潇||马哲|
 |30|2022.07.29|李泽宇||麻瓯勃|
 |31|2022.08.05|邱鹏宇||甘雨由|
-|32|2022.08.12|沈鹿嘉||白熠阳|
-|33|2022.08.19|包晗||付之笑|
+|32|2022.08.12|包晗||白熠阳|
+|33|2022.08.19|沈鹿嘉|Get a Model! Model Hijacking Attack Against Machine Learning Models, NDSS 2022|付之笑|
 
 
 <!--

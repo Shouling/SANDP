@@ -101,7 +101,7 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |28|2022.07.17|陈源||刘沛宇|
 |29|2022.07.24|常博宇|JIGSAW: Efficient and Scalable Path Constraints Fuzzing, IEEE S&P 2022|梁红|
 |30|2022.07.31||||  
-|31|2022.08.07|向意||张凌铭|
+|31|2022.08.07|向意|VulScope: Facilitating Vulnerability Assessment through PoC, ACM CCS 2021|张凌铭|
 |32|2022.08.14|夏亦凡|Program Vulnerability Repair via Inductive Inference, ISSTA 2022|许嘉诚|
 |33|2022.08.21|王琴应||刘丁豪|
 |34|2022.08.28|潘高宁||陈源|

@@ -42,7 +42,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |26|2022.07.01|付之笑|Few-Shot Head Swapping in the Wild, CVPR 2022|包晗|
 |27|2022.07.08|何平|Anti-Backdoor Learning: Training Clean Models on Poisoned Data, NeurIPS 2021|杜杨凯|
 |28|2022.07.15|姜毅|Differentiable Prompt Makes Pre-trained Language Models Better Few-shot Learners! , ICLR 2022|付冲|
-|29|2022.07.22|林瑞潇||马哲|
+|29|2022.07.22|林瑞潇|CAFE: Catastrophic Data Leakage in Vertical Federated Learning, NeurIPS 2021|马哲|
 |30|2022.07.29|李泽宇||麻瓯勃|
 |31|2022.08.05|邱鹏宇||甘雨由|
 |32|2022.08.12|包晗||白熠阳|

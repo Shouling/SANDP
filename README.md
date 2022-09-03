@@ -97,7 +97,7 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |24|2022.06.19|向意|WindRanger: A Directed Greybox Fuzzer driven by Deviation Basic Blocks, ICSE 2022|常博宇|
 |25|2022.06.26|许嘉诚|SyzGen: Automated Generation of Syscall Specification of Closed-Source macOS Drivers, ACM CCS 2021|王琴应|
 |26|2022.07.03|刘丁豪|Precise and Scalable Detection of Use-after-Compacting-Garbage-Collection Bugs, USENIX Security 2021|陈安莹|
-|27|2022.07.10|刘昕鹏||侯黎阳|
+|27|2022.07.10|刘昕鹏|Capture: Centralized Library Management for Heterogeneous IoT Devices, USENIX Security 2021|侯黎阳|
 |28|2022.07.17|陈源|Broken Metre: Attacking Resource Metering in EVM, NDSS 2020|刘沛宇|
 |29|2022.07.24|常博宇|JIGSAW: Efficient and Scalable Path Constraints Fuzzing, IEEE S&P 2022|梁红|
 |30|2022.07.31||||  

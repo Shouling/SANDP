@@ -48,7 +48,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |32|2022.08.12|包晗|DeepFake Disrupter: The Detector of DeepFake Is My Friend, CVPR 2022|白熠阳|
 |33|2022.08.19|沈鹿嘉|Get a Model! Model Hijacking Attack Against Machine Learning Models, NDSS 2022|付之笑|
 |34|2022.08.26|杜杨凯|Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity, ACL 2022|何平|
-|35|2022.09.02|麻瓯勃||付冲|
+|35|2022.09.02|麻瓯勃|Deep Reinforcement Learning That Matters, AAAI 2018|付冲|
 |36|2022.09.09|甘雨由||林瑞潇|
 |37|2022.09.16|白熠阳||李泽宇|
 

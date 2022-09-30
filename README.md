@@ -51,7 +51,7 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |35|2022.09.02|麻瓯勃|Deep Reinforcement Learning That Matters, AAAI 2018|付冲|
 |36|2022.09.09|甘雨由||林瑞潇|
 |37|2022.09.16|白熠阳||李泽宇|
-|38|2022.09.23|马哲||姜毅|
+|38|2022.09.23|马哲|A Self-Supervised Descriptor for Image Copy Detection, CVPR 2022|姜毅|
 |39|2022.09.30|何平||邱鹏宇|
 |40|2022.10.07|付之笑||包晗|
 |41|2022.10.14|李泽宇||沈鹿嘉|

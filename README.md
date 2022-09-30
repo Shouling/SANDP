@@ -112,8 +112,8 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |35|2022.09.04|侯黎阳|Vulnerability Detection of ICS Protocols Via Cross-State Fuzzing, EMSOFT 2022|常博宇|
 |36|2022.09.11|梁红|SYMSAN: Time and Space Efficient Concolic Execution via Dynamic Data-flow Analysis, USENIX Security 2022|刘昕鹏|
 |37|2022.09.18|张凌铭|FIXREVERTER: A Realistic Bug Injection Methodology for Benchmarking Fuzz Testing, USENIX Security 2022|向意|
-|38|2022.09.25|刘丁豪||许嘉诚|
-|39|2022.10.02|陈源||夏亦凡|
+|38|2022.09.25|刘丁豪||夏亦凡|
+|39|2022.10.02|陈源||许嘉诚|
 |40|2022.10.09|常博宇||王琴应|
 |41|2022.10.16|刘昕鹏||张凌铭|
 

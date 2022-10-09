@@ -52,8 +52,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |36|2022.09.09|甘雨由||林瑞潇|
 |37|2022.09.16||||
 |38|2022.09.23|马哲|A Self-Supervised Descriptor for Image Copy Detection, CVPR 2022|姜毅|
-|39|2022.09.30|何平||邱鹏宇|
-|40|2022.10.07|付之笑||包晗|
+|39|2022.09.30|何平|CADE: Detecting and Explaining Concept Drift Samples for Security Applications, USENIX Security 2021|邱鹏宇|
+|40|2022.10.07|付之笑|On sensitivity of meta-learning to support data, NIPS 2021|包晗|
 |41|2022.10.14|李泽宇||沈鹿嘉|
 |42|2022.10.21|林瑞潇||甘雨由|
 |43|2022.10.28|付冲||麻瓯勃|

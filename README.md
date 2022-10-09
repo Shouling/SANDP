@@ -120,7 +120,7 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |36|2022.09.11|梁红|SYMSAN: Time and Space Efficient Concolic Execution via Dynamic Data-flow Analysis, USENIX Security 2022|刘昕鹏|
 |37|2022.09.18|张凌铭|FIXREVERTER: A Realistic Bug Injection Methodology for Benchmarking Fuzz Testing, USENIX Security 2022|向意|
 |38|2022.09.25|刘丁豪|UBITect: A Precise and Scalable Method to Detect Use-before-Initialization Bugs in Linux Kernel, FSE 2022|夏亦凡|
-|39|2022.10.02|陈源||许嘉诚|
+|39|2022.10.02|陈源|eTainter: detecting gas-related vulnerabilities in smart contracts, ISSTA 2022|许嘉诚|
 |40|2022.10.09|常博宇||王琴应|
 |41|2022.10.16|刘昕鹏||张凌铭|
 |42|2022.10.23|向意||侯黎阳|

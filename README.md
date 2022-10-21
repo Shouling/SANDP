@@ -55,8 +55,8 @@ such as **conference, title, abstract**，which can be written in the form of [m
 |39|2022.09.30|何平|CADE: Detecting and Explaining Concept Drift Samples for Security Applications, USENIX Security 2021|邱鹏宇|
 |40|2022.10.07|付之笑|On sensitivity of meta-learning to support data, NIPS 2021|包晗|
 |41|2022.10.14|李泽宇||沈鹿嘉|
-|42|2022.10.21|林瑞潇||甘雨由|
-|43|2022.10.28|付冲||麻瓯勃|
+|42|2022.10.21|付冲|PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning|甘雨由|
+|43|2022.10.28|林瑞潇||麻瓯勃|
 |44|2022.11.04|陈佳豪||白熠阳|
 |45|2022.11.11|丁卓远||何平|
 |46|2022.11.18|柴欣怡||杜杨凯|

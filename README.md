@@ -126,12 +126,12 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |38|2022.09.25|刘丁豪|UBITect: A Precise and Scalable Method to Detect Use-before-Initialization Bugs in Linux Kernel, FSE 2022|夏亦凡|
 |39|2022.10.02|陈源|eTainter: detecting gas-related vulnerabilities in smart contracts, ISSTA 2022|许嘉诚|
 |40|2022.10.09|常博宇|Exploit the Last Straw That Breaks Android Systems, IEEE S&P 2022|王琴应|
-|41|2022.10.16|刘昕鹏||张凌铭|
-|42|2022.10.23|向意||侯黎阳|
-|43|2022.10.30|武昊天||梁红|
-|44|2022.11.06|许嘉诚||刘丁豪|
-|45|2022.11.13|夏亦凡||陈源|
-|46|2022.11.20|王琴应||常博宇|
+|41|2022.10.16|刘昕鹏|SnapFuzz：An Efficient Fuzzing Framework for Network Applications, ISSTA 2022|张凌铭|
+|42|2022.10.23|向意|MC2: Rigorous and Efficient Directed Greybox Fuzzing, CCS 2022|侯黎阳|
+|43|2022.10.30|武昊天|One Fuzzing Strategy to Rule Them All, ICSE 2022|梁红|
+|44|2022.11.06|许嘉诚|StateFuzz: System Call-Based State-Aware Linux Driver Fuzzing, USENIX Security 2022|刘丁豪|
+|45|2022.11.13|夏亦凡|Tracer: Signature-based Static Analysis for Detecting Recurring Vulnerabilities, CCS 2022|陈源|
+|46|2022.11.20|王琴应|NCScope: Hardware-Assisted Analyzer for Native Code in Android Apps, ISSTA 2022|常博宇|
 |47|2022.11.27|张凌铭||刘昕鹏|
 |48|2022.12.04|梁红||向意|
 |49|2022.12.11|刘丁豪||武昊天|

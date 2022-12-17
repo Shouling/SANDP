@@ -130,7 +130,7 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 |42|2022.10.23|向意|MC2: Rigorous and Efficient Directed Greybox Fuzzing, CCS 2022|侯黎阳|
 |43|2022.10.30|武昊天|One Fuzzing Strategy to Rule Them All, ICSE 2022|梁红|
 |44|2022.11.06|许嘉诚|StateFuzz: System Call-Based State-Aware Linux Driver Fuzzing, USENIX Security 2022|刘丁豪|
-|45|2022.11.13|夏亦凡|Tracer: Signature-based Static Analysis for Detecting Recurring Vulnerabilities, CCS 2022|陈源|
+|45|2022.11.13|夏亦凡|Tracer: Signature-based Static Analysis for Detecting Recurring Vulnerabilities, ACM CCS 2022|陈源|
 |46|2022.11.20|王琴应|NCScope: Hardware-Assisted Analyzer for Native Code in Android Apps, ISSTA 2022|常博宇|
 |47|2022.11.27|张凌铭||刘昕鹏|
 |48|2022.12.04|梁红||向意|

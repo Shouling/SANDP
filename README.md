@@ -36,7 +36,7 @@ in: ['李泽宇', '甘雨由', '林瑞潇', '付之笑', '包晗', '何平', '�
 </div>
 
 ## System Security Group Meeting
-**Location**：Zetonglou 104
+**Location**：Cao Guangbiao High-tech Building 201
 
 **Time**: Sunday 18:00
 
